@@ -1,1021 +1,999 @@
-State,District,year,Type,Crop,Average Max Temperature,Average Min Temp,Ground water ,rain,cloud cover
-Assam,BARPETA,1999,Whole Year,Sugarcane,28.95433,,2.41,,50.9209
-Assam,BARPETA,2000,Whole Year,Sugarcane,27.58808,,2.651538462,,52.845
-Assam,BARPETA,2001,Whole Year,Sugarcane,28.226,,2.41,,52.58
-Assam,BARPETA,2002,Whole Year,Sugarcane,28.28667,,2.268461538,,52.6
-Assam,CACHAR,1999,Whole Year,Sugarcane,29.54108,,1.847272727,,51.354
-Assam,CACHAR,2000,Whole Year,Sugarcane,28.16508,,1.235,,53.68
-Assam,CACHAR,2001,Whole Year,Sugarcane,28.93283,,1.59195122,,53.229
-Assam,CACHAR,2002,Whole Year,Sugarcane,29.00908,,1.504871795,,53.16
-Assam,DARRANG,1999,Whole Year,Sugarcane,28.85508,,2.725789474,,50.962
-Assam,DARRANG,2000,Whole Year,Sugarcane,27.37042,,3.149473684,,53.348
-Assam,DARRANG,2001,Whole Year,Sugarcane,28.054,,2.817368421,,52.82
-Assam,DARRANG,2002,Whole Year,Sugarcane,28.11892,,3.137777778,,52.879
-Assam,DHEMAJI,1999,Whole Year,Sugarcane,29.83958,,2.752307692,,52.82
-Assam,DHEMAJI,2000,Whole Year,Sugarcane,28.388,,2.592631579,,53.503
-Assam,DHEMAJI,2001,Whole Year,Sugarcane,29.05183,,2.81875,,51.899
-Assam,DHEMAJI,2002,Whole Year,Sugarcane,29.09933,,2.644666667,,52.066
-Assam,DHUBRI,1999,Whole Year,Sugarcane,30.8455,,2.64625,,51.037
-Assam,DHUBRI,2000,Whole Year,Sugarcane,29.731,,3.015,,51.227
-Assam,DHUBRI,2001,Whole Year,Sugarcane,30.26875,,2.662105263,,51.39
-Assam,DHUBRI,2002,Whole Year,Sugarcane,30.29533,,2.714782609,,51.457
-Assam,DIBRUGARH,1999,Whole Year,Sugarcane,29.13925,,2.693636364,,53.109
-Assam,DIBRUGARH,2000,Whole Year,Sugarcane,27.72033,,2.633939394,,53.638
-Assam,DIBRUGARH,2001,Whole Year,Sugarcane,28.40592,,2.795405405,,51.913
-Assam,DIBRUGARH,2002,Whole Year,Sugarcane,28.44817,,2.830526316,,51.945
-Assam,GOALPARA,1999,Whole Year,Sugarcane,29.43933,,2.357037037,,51.055
-Assam,GOALPARA,2000,Whole Year,Sugarcane,28.20058,,2.055185185,,52.347
-Assam,GOALPARA,2001,Whole Year,Sugarcane,28.75408,,2.951515152,,52.258
-Assam,GOALPARA,2002,Whole Year,Sugarcane,28.8195,,3.567407407,,52.257
-Assam,GOLAGHAT,1999,Whole Year,Sugarcane,28.93092,,4.6988,,52.119
-Assam,GOLAGHAT,2000,Whole Year,Sugarcane,27.54908,,3.679565217,,53.716
-Assam,GOLAGHAT,2001,Whole Year,Sugarcane,28.19783,,3.905,,52.992
-Assam,GOLAGHAT,2002,Whole Year,Sugarcane,28.288,,3.535217391,,51.8
-Assam,HAILAKANDI,1999,Whole Year,Sugarcane,29.72592,,2.337333333,,51.458
-Assam,HAILAKANDI,2000,Whole Year,Sugarcane,28.35258,,1.329285714,,53.58441667
-Assam,HAILAKANDI,2001,Whole Year,Sugarcane,29.15142,,1.434666667,,53.14858333
-Assam,HAILAKANDI,2002,Whole Year,Sugarcane,29.21383,,1.136428571,,53.31875
-Assam,JORHAT,1999,Whole Year,Sugarcane,29.137,,2.486153846,,52.5975
-Assam,JORHAT,2000,Whole Year,Sugarcane,27.7635,,3.038529412,,53.79966667
-Assam,JORHAT,2001,Whole Year,Sugarcane,28.3935,,2.142333333,,52.8835
-Assam,JORHAT,2002,Whole Year,Sugarcane,28.47567,,1.677317073,,51.83333333
-Assam,KAMRUP,1999,Whole Year,Sugarcane,27.64183,,2.938148148,,51.01925
-Assam,KAMRUP,2000,Whole Year,Sugarcane,26.21475,,2.499811321,,53.54383333
-Assam,KAMRUP,2001,Whole Year,Sugarcane,26.84642,,2.386885246,,53.06925
-Assam,KAMRUP,2002,Whole Year,Sugarcane,26.91125,,2.306129032,,53.22091667
-Assam,KARBI ANGLONG,1999,Whole Year,Sugarcane,27.19017,,5.053563218,,51.92875
-Assam,KARBI ANGLONG,2000,Whole Year,Sugarcane,25.82992,,4.281481481,,54.02091667
-Assam,KARBI ANGLONG,2001,Whole Year,Sugarcane,26.43867,,4.588023256,,53.56566667
-Assam,KARBI ANGLONG,2002,Whole Year,Sugarcane,26.53325,,4.217282609,,52.44033333
-Assam,KARIMGANJ,1999,Whole Year,Sugarcane,30.80883,,2.520882353,,51.392
-Assam,KARIMGANJ,2000,Whole Year,Sugarcane,29.46158,,2.124375,,53.39633333
-Assam,KARIMGANJ,2001,Whole Year,Sugarcane,30.18075,,1.723243243,,52.8905
-Assam,KARIMGANJ,2002,Whole Year,Sugarcane,30.24933,,1.7824,,53.3145
-Assam,KOKRAJHAR,1999,Whole Year,Sugarcane,30.09142,,14.72625,,51.26566667
-Assam,KOKRAJHAR,2000,Whole Year,Sugarcane,28.8035,,15.33875,,51.75108333
-Assam,KOKRAJHAR,2001,Whole Year,Sugarcane,29.45683,,15.6975,,51.78466667
-Assam,KOKRAJHAR,2002,Whole Year,Sugarcane,29.47117,,15.0075,,51.82708333
-Assam,LAKHIMPUR,1999,Whole Year,Sugarcane,30.18808,,2.163448276,,52.29466667
-Assam,LAKHIMPUR,2000,Whole Year,Sugarcane,28.7115,,1.814464286,,53.36791667
-Assam,LAKHIMPUR,2001,Whole Year,Sugarcane,29.38325,,2.0065,,51.99941667
-Assam,LAKHIMPUR,2002,Whole Year,Sugarcane,29.44475,,1.95779661,,52.06208333
-Assam,NAGAON,1999,Whole Year,Sugarcane,26.14742,,3.676376812,,51.63266667
-Assam,NAGAON,2000,Whole Year,Sugarcane,24.74017,,3.081733333,,53.89083333
-Assam,NAGAON,2001,Whole Year,Sugarcane,25.34133,,3.178507463,,53.37691667
-Assam,NAGAON,2002,Whole Year,Sugarcane,25.409,,2.907439024,,52.6905
-Assam,NALBARI,1999,Whole Year,Sugarcane,28.99075,,2.401428571,,50.79591667
-Assam,NALBARI,2000,Whole Year,Sugarcane,27.56867,,1.367,,53.201
-Assam,NALBARI,2001,Whole Year,Sugarcane,28.23408,,1.932,,52.78866667
-Assam,NALBARI,2002,Whole Year,Sugarcane,28.2935,,0.7733333333,,52.87966667
-Assam,SIVASAGAR,1999,Whole Year,Sugarcane,28.43683,,2.416923077,,53.13533333
-Assam,SIVASAGAR,2000,Whole Year,Sugarcane,27.0255,,2.095897436,,53.91908333
-Assam,SIVASAGAR,2001,Whole Year,Sugarcane,27.71908,,2.1,,52.43041667
-Assam,SIVASAGAR,2002,Whole Year,Sugarcane,27.78483,,2.29,,51.93058333
-Assam,SONITPUR,1999,Whole Year,Sugarcane,30.29492,,2.683692308,,51.51325
-Assam,SONITPUR,2000,Whole Year,Sugarcane,28.79642,,2.646557377,,53.39541667
-Assam,SONITPUR,2001,Whole Year,Sugarcane,29.47883,,2.883015873,,52.45675
-Assam,SONITPUR,2002,Whole Year,Sugarcane,29.53983,,2.818787879,,52.39858333
-Assam,TINSUKIA,1999,Whole Year,Sugarcane,26.71483,,3.208604651,,54.093
-Assam,TINSUKIA,2000,Whole Year,Sugarcane,25.34508,,3.022444444,,54.43425
-Assam,TINSUKIA,2001,Whole Year,Sugarcane,26.02617,,3.165769231,,52.60991667
-Assam,TINSUKIA,2002,Whole Year,Sugarcane,26.09833,,3.135272727,,52.49258333
-Bihar,ARARIA,1999,Whole Year,Sugarcane,31.4715,,2.653333333,,48.115
-Bihar,ARARIA,2000,Whole Year,Sugarcane,30.67192,,3.107,,44.554
-Bihar,ARARIA,2001,Whole Year,Sugarcane,31.25775,,2.665,,45.48325
-Bihar,ARARIA,2002,Whole Year,Sugarcane,31.23358,,2.37375,,44.95683333
-Bihar,AURANGABAD,1999,Whole Year,Sugarcane,32.3565,,3.36875,,41.98625
-Bihar,AURANGABAD,2000,Whole Year,Sugarcane,32.195,,3.39,,35.43433333
-Bihar,AURANGABAD,2001,Whole Year,Sugarcane,32.26842,,3.40175,,38.68991667
-Bihar,AURANGABAD,2002,Whole Year,Sugarcane,32.715,,3.230810811,,36.539
-Bihar,BANKA,1999,Whole Year,Sugarcane,31.2505,,3.292727273,,45.19216667
-Bihar,BANKA,2000,Whole Year,Sugarcane,30.83742,,3.746818182,,41.2665
-Bihar,BANKA,2001,Whole Year,Sugarcane,31.13358,,3.646071429,,42.72108333
-Bihar,BANKA,2002,Whole Year,Sugarcane,31.33617,,3.146666667,,41.79741667
-Bihar,BEGUSARAI,1999,Whole Year,Sugarcane,31.7545,,3.333235294,,43.57341667
-Bihar,BEGUSARAI,2000,Whole Year,Sugarcane,31.39642,,3.792857143,,38.121
-Bihar,BEGUSARAI,2001,Whole Year,Sugarcane,31.70317,,3.887878788,,40.06683333
-Bihar,BEGUSARAI,2002,Whole Year,Sugarcane,31.82975,,3.968235294,,38.675
-Bihar,BHAGALPUR,1999,Whole Year,Sugarcane,31.58717,,3.599761905,,45.81608333
-Bihar,BHAGALPUR,2000,Whole Year,Sugarcane,31.05692,,3.537045455,,42.04333333
-Bihar,BHAGALPUR,2001,Whole Year,Sugarcane,31.41933,,3.614375,,43.32933333
-Bihar,BHAGALPUR,2002,Whole Year,Sugarcane,31.58483,,3.580666667,,42.5895
-Bihar,BHOJPUR,1999,Whole Year,Sugarcane,32.71042,,3.883333333,,42.56725
-Bihar,BHOJPUR,2000,Whole Year,Sugarcane,32.533,,3.994047619,,35.57191667
-Bihar,BHOJPUR,2001,Whole Year,Sugarcane,32.66233,,3.857906977,,38.45108333
-Bihar,BHOJPUR,2002,Whole Year,Sugarcane,32.91942,,3.962045455,,36.93133333
-Bihar,BUXAR,1999,Whole Year,Sugarcane,32.62192,,3.767058824,,42.56658333
-Bihar,BUXAR,2000,Whole Year,Sugarcane,32.466,,4.218,,35.35933333
-Bihar,BUXAR,2001,Whole Year,Sugarcane,32.58192,,3.721578947,,38.50891667
-Bihar,BUXAR,2002,Whole Year,Sugarcane,32.85517,,4.389411765,,37.05908333
-Bihar,DARBHANGA,1999,Whole Year,Sugarcane,31.90942,,2.61452381,,44.23575
-Bihar,DARBHANGA,2000,Whole Year,Sugarcane,31.536,,2.444,,38.23958333
-Bihar,DARBHANGA,2001,Whole Year,Sugarcane,31.878,,2.24,,40.06991667
-Bihar,DARBHANGA,2002,Whole Year,Sugarcane,31.84858,,2.869512195,,38.86583333
-Bihar,GAYA,1999,Whole Year,Sugarcane,31.81217,,3.833571429,,42.26241667
-Bihar,GAYA,2000,Whole Year,Sugarcane,31.59417,,4.587142857,,36.11891667
-Bihar,GAYA,2001,Whole Year,Sugarcane,31.6955,,5.121621622,,38.88158333
-Bihar,GAYA,2002,Whole Year,Sugarcane,32.12267,,3.913333333,,36.79041667
-Bihar,GOPALGANJ,1999,Whole Year,Sugarcane,32.79383,,2.508039216,,44.50191667
-Bihar,GOPALGANJ,2000,Whole Year,Sugarcane,32.53783,,2.291052632,,37.12508333
-Bihar,GOPALGANJ,2001,Whole Year,Sugarcane,32.73758,,2.126111111,,39.88791667
-Bihar,GOPALGANJ,2002,Whole Year,Sugarcane,32.74608,,1.977260274,,38.78341667
-Bihar,JAMUI,1999,Whole Year,Sugarcane,30.86675,,5.587619048,,44.24083333
-Bihar,JAMUI,2000,Whole Year,Sugarcane,30.49975,,6.175833333,,39.31583333
-Bihar,JAMUI,2001,Whole Year,Sugarcane,30.75617,,7.022962963,,41.33883333
-Bihar,JAMUI,2002,Whole Year,Sugarcane,31.01033,,6.883846154,,39.766
-Bihar,JEHANABAD,1999,Whole Year,Sugarcane,32.68817,,2.709473684,,42.14575
-Bihar,JEHANABAD,2000,Whole Year,Sugarcane,32.45233,,3.599166667,,35.59408333
-Bihar,JEHANABAD,2001,Whole Year,Sugarcane,32.59242,,3.361428571,,38.29475
-Bihar,JEHANABAD,2002,Whole Year,Sugarcane,32.903,,3.557368421,,36.58025
-Bihar,KAIMUR (BHABUA),1999,Whole Year,Sugarcane,32.11558,,4.351666667,,41.96358333
-Bihar,KAIMUR (BHABUA),2000,Whole Year,Sugarcane,31.98658,,5.146785714,,34.774
-Bihar,KAIMUR (BHABUA),2001,Whole Year,Sugarcane,31.96775,,4.477916667,,38.37
-Bihar,KAIMUR (BHABUA),2002,Whole Year,Sugarcane,32.42575,,4.765652174,,36.74141667
-Bihar,KATIHAR,1999,Whole Year,Sugarcane,31.641,,4.06,,47.32116667
-Bihar,KATIHAR,2000,Whole Year,Sugarcane,30.82075,,3.080588235,,44.4075
-Bihar,KATIHAR,2001,Whole Year,Sugarcane,31.41083,,3.1286,,45.25716667
-Bihar,KATIHAR,2002,Whole Year,Sugarcane,31.50008,,3.473090909,,44.86641667
-Bihar,KHAGARIA,1999,Whole Year,Sugarcane,31.69017,,4.702857143,,44.80716667
-Bihar,KHAGARIA,2000,Whole Year,Sugarcane,31.25583,,4.254285714,,40.04691667
-Bihar,KHAGARIA,2001,Whole Year,Sugarcane,31.6075,,4.454814815,,41.6605
-Bihar,KHAGARIA,2002,Whole Year,Sugarcane,31.69658,,4.91,,40.66833333
-Bihar,KISHANGANJ,1999,Whole Year,Sugarcane,31.27575,,,,49.18158333
-Bihar,KISHANGANJ,2000,Whole Year,Sugarcane,30.42467,,,,46.39616667
-Bihar,KISHANGANJ,2001,Whole Year,Sugarcane,30.99417,,,,47.04658333
-Bihar,MADHEPURA,1999,Whole Year,Sugarcane,30.96792,,,,46.09008333
-Bihar,MADHEPURA,2000,Whole Year,Sugarcane,31.65192,,,,41.703
-Bihar,MADHEPURA,2001,Whole Year,Sugarcane,31.07525,,,,43.08908333
-Bihar,MADHEPURA,2002,Whole Year,Sugarcane,31.53133,,,,42.28691667
-Bihar,MADHUBANI,1999,Whole Year,Sugarcane,31.78892,,,,45.99375
-Bihar,MADHUBANI,2000,Whole Year,Sugarcane,31.3385,,,,40.18858333
-Bihar,MADHUBANI,2001,Whole Year,Sugarcane,31.73275,,,,41.85741667
-Bihar,MADHUBANI,2002,Whole Year,Sugarcane,31.647,,,,40.80983333
-Bihar,MUZAFFARPUR,1999,Whole Year,Sugarcane,32.25792,,,,43.49458333
-Bihar,MUZAFFARPUR,2000,Whole Year,Sugarcane,31.94925,,,,36.69466667
-Bihar,MUZAFFARPUR,2001,Whole Year,Sugarcane,32.209,,,,38.8965
-Bihar,MUZAFFARPUR,2002,Whole Year,Sugarcane,32.2305,,,,37.53891667
-Bihar,NALANDA,1999,Whole Year,Sugarcane,32.41142,,,,42.3825
-Bihar,NALANDA,2000,Whole Year,Sugarcane,32.08775,,,,36.19458333
-Bihar,NALANDA,2001,Whole Year,Sugarcane,32.32242,,,,38.575
-Bihar,NALANDA,2002,Whole Year,Sugarcane,32.57775,,,,36.82833333
-Bihar,NAWADA,1999,Whole Year,Sugarcane,31.25725,,,,42.75466667
-Bihar,NAWADA,2000,Whole Year,Sugarcane,30.95725,,,,37.0085
-Bihar,NAWADA,2001,Whole Year,Sugarcane,31.12758,,,,39.35266667
-Bihar,NAWADA,2002,Whole Year,Sugarcane,31.47667,,,,37.42783333
-Bihar,PASHCHIM CHAMPARAN,1999,Whole Year,Sugarcane,32.66317,,,,46.60358333
-Bihar,PASHCHIM CHAMPARAN,2000,Whole Year,Sugarcane,32.26642,,,,39.75975
-Bihar,PASHCHIM CHAMPARAN,2001,Whole Year,Sugarcane,32.51467,,,,41.8755
-Bihar,PASHCHIM CHAMPARAN,2002,Whole Year,Sugarcane,32.39625,,,,41.19816667
-Bihar,PATNA,1999,Whole Year,Sugarcane,32.51775,,,,42.41425
-Bihar,PATNA,2000,Whole Year,Sugarcane,32.25225,,,,35.94758333
-Bihar,PATNA,2001,Whole Year,Sugarcane,32.4475,,,,38.43466667
-Bihar,PATNA,2002,Whole Year,Sugarcane,32.68267,,,,36.793
-Bihar,PURBI CHAMPARAN,1999,Whole Year,Sugarcane,32.46175,,,,45.65233333
-Bihar,PURBI CHAMPARAN,2000,Whole Year,Sugarcane,32.14817,,,,38.27841667
-Bihar,PURBI CHAMPARAN,2001,Whole Year,Sugarcane,32.40567,,,,40.62866667
-Bihar,PURBI CHAMPARAN,2002,Whole Year,Sugarcane,32.33267,,,,39.53325
-Bihar,PURNIA,1999,Whole Year,Sugarcane,31.673,,,,47.31925
-Bihar,PURNIA,2000,Whole Year,Sugarcane,30.89208,,,,44.03691667
-Bihar,PURNIA,2001,Whole Year,Sugarcane,31.46758,,,,44.99291667
-Bihar,PURNIA,2002,Whole Year,Sugarcane,31.53683,,,,44.5065
-Bihar,ROHTAS,1999,Whole Year,Sugarcane,32.27233,,,,42.112
-Bihar,ROHTAS,2000,Whole Year,Sugarcane,32.13475,,,,35.17275
-Bihar,ROHTAS,2001,Whole Year,Sugarcane,32.15208,,,,38.53341667
-Bihar,ROHTAS,2002,Whole Year,Sugarcane,32.58883,,,,36.759
-Bihar,SAHARSA,1999,Whole Year,Sugarcane,31.74117,,,,45.17425
-Bihar,SAHARSA,2000,Whole Year,Sugarcane,31.24458,,,,40.3725
-Bihar,SAHARSA,2001,Whole Year,Sugarcane,31.65433,,,,41.94033333
-Bihar,SAHARSA,2002,Whole Year,Sugarcane,31.69867,,,,41.00066667
-Bihar,SAMASTIPUR,1999,Whole Year,Sugarcane,32.15917,,,,42.54133333
-Bihar,SAMASTIPUR,2000,Whole Year,Sugarcane,31.83167,,,,36.56458333
-Bihar,SAMASTIPUR,2001,Whole Year,Sugarcane,32.13067,,,,38.59516667
-Bihar,SAMASTIPUR,2002,Whole Year,Sugarcane,32.20808,,,,37.14733333
-Bihar,SARAN,1999,Whole Year,Sugarcane,32.70142,,,,43.10108333
-Bihar,SARAN,2000,Whole Year,Sugarcane,32.48833,,,,35.97366667
-Bihar,SARAN,2001,Whole Year,Sugarcane,32.68158,,,,38.66033333
-Bihar,SARAN,2002,Whole Year,Sugarcane,32.80042,,,,37.22391667
-Bihar,SHEIKHPURA,1999,Whole Year,Sugarcane,32.10958,,,,42.71141667
-Bihar,SHEIKHPURA,2000,Whole Year,Sugarcane,31.76083,,,,36.78133333
-Bihar,SHEIKHPURA,2001,Whole Year,Sugarcane,32.02458,,,,38.95958333
-Bihar,SHEIKHPURA,2002,Whole Year,Sugarcane,32.26183,,,,37.26133333
-Bihar,SHEOHAR,1999,Whole Year,Sugarcane,32.28942,,,,44.79625
-Bihar,SHEOHAR,2000,Whole Year,Sugarcane,31.96967,,,,37.66116667
-Bihar,SHEOHAR,2001,Whole Year,Sugarcane,32.23525,,,,39.81191667
-Bihar,SHEOHAR,2002,Whole Year,Sugarcane,32.19758,,,,38.61891667
-Bihar,SITAMARHI,1999,Whole Year,Sugarcane,32.04008,,,,45.94875
-Bihar,SITAMARHI,2000,Whole Year,Sugarcane,31.68242,,,,39.07766667
-Bihar,SITAMARHI,2001,Whole Year,Sugarcane,32.01608,,,,40.96766667
-Bihar,SITAMARHI,2002,Whole Year,Sugarcane,31.888,,,,39.84916667
-Bihar,SIWAN,1999,Whole Year,Sugarcane,32.87058,,,,43.98266667
-Bihar,SIWAN,2000,Whole Year,Sugarcane,32.6435,,,,36.48733333
-Bihar,SIWAN,2001,Whole Year,Sugarcane,32.81167,,,,39.37991667
-Bihar,SIWAN,2002,Whole Year,Sugarcane,32.87167,,,,38.192
-Bihar,SUPAUL,1999,Whole Year,Sugarcane,31.6215,,,,47.14175
-Bihar,VAISHALI,1999,Whole Year,Sugarcane,32.47708,,,,42.07383333
-Bihar,VAISHALI,2000,Whole Year,Sugarcane,32.23867,,,,35.50866667
-Bihar,VAISHALI,2001,Whole Year,Sugarcane,32.4385,,,,37.83408333
-Bihar,VAISHALI,2002,Whole Year,Sugarcane,32.5785,,,,36.27633333
-Chhattisgarh,BASTAR,2000,Whole Year,Sugarcane,32.57717,,,,37.34558333
-Chhattisgarh,BASTAR,2001,Whole Year,Sugarcane,32.56233,,,,41.16683333
-Chhattisgarh,BASTAR,2002,Whole Year,Sugarcane,32.91033,,,,38.43958333
-Chhattisgarh,BILASPUR,2000,Whole Year,Sugarcane,31.68183,,,,33.0355
-Chhattisgarh,BILASPUR,2001,Whole Year,Sugarcane,31.71842,,,,31.75033333
-Chhattisgarh,BILASPUR,2002,Whole Year,Sugarcane,31.88042,,,,34.04558333
-Chhattisgarh,DANTEWADA,2000,Whole Year,Sugarcane,33.454,,,,36.53483333
-Chhattisgarh,DANTEWADA,2001,Whole Year,Sugarcane,33.48717,,,,40.4125
-Chhattisgarh,DANTEWADA,2002,Whole Year,Sugarcane,33.73425,,,,38.04083333
-Chhattisgarh,DHAMTARI,2000,Whole Year,Sugarcane,31.80533,,,,37.75558333
-Chhattisgarh,DHAMTARI,2002,Whole Year,Sugarcane,31.81625,,,,38.27491667
-Chhattisgarh,DURG,2000,Whole Year,Sugarcane,32.27633,,,,36.86116667
-Chhattisgarh,DURG,2001,Whole Year,Sugarcane,31.71842,,,,40.64258333
-Chhattisgarh,DURG,2002,Whole Year,Sugarcane,31.88042,,,,37.88508333
-Chhattisgarh,JANJGIR-CHAMPA,2000,Whole Year,Sugarcane,32.595,,,,36.86908333
-Chhattisgarh,JANJGIR-CHAMPA,2001,Whole Year,Sugarcane,32.6005,,,,41.05891667
-Chhattisgarh,JANJGIR-CHAMPA,2002,Whole Year,Sugarcane,33.14383,,,,37.887
-Chhattisgarh,JASHPUR,2000,Whole Year,Sugarcane,31.54717,,,,36.79816667
-Chhattisgarh,JASHPUR,2001,Whole Year,Sugarcane,31.53767,,,,41.07966667
-Chhattisgarh,JASHPUR,2002,Whole Year,Sugarcane,32.08125,,,,37.81083333
-Chhattisgarh,KORBA,2001,Whole Year,Sugarcane,32.36067,,,,40.37025
-Chhattisgarh,KORBA,2002,Whole Year,Sugarcane,32.447,,,,37.89383333
-Chhattisgarh,KOREA,2000,Whole Year,Sugarcane,30.66217,,,,36.06741667
-Chhattisgarh,KOREA,2001,Whole Year,Sugarcane,31.21908,,,,40.37025
-Chhattisgarh,MAHASAMUND,2000,Whole Year,Sugarcane,32.25283,,,,37.72383333
-Chhattisgarh,MAHASAMUND,2001,Whole Year,Sugarcane,32.22392,,,,41.49075
-Chhattisgarh,MAHASAMUND,2002,Whole Year,Sugarcane,32.72125,,,,37.8635
-Chhattisgarh,RAIGARH,2000,Whole Year,Sugarcane,32.42875,,,,36.95558333
-Chhattisgarh,RAIGARH,2001,Whole Year,Sugarcane,32.39325,,,,41.3625
-Chhattisgarh,RAIGARH,2002,Whole Year,Sugarcane,32.94775,,,,37.88275
-Chhattisgarh,RAIPUR,2000,Whole Year,Sugarcane,32.31558,,,,37.44416667
-Chhattisgarh,RAIPUR,2001,Whole Year,Sugarcane,32.3305,,,,41.23025
-Chhattisgarh,RAIPUR,2002,Whole Year,Sugarcane,32.83008,,,,38.00941667
-Chhattisgarh,RAJNANDGAON,2000,Whole Year,Sugarcane,33.15642,,,,36.78175
-Chhattisgarh,RAJNANDGAON,2001,Whole Year,Sugarcane,33.31033,,,,40.51533333
-Chhattisgarh,RAJNANDGAON,2002,Whole Year,Sugarcane,33.76033,,,,38.05
-Chhattisgarh,SURGUJA,2000,Whole Year,Sugarcane,30.93892,,,,35.84266667
-Chhattisgarh,SURGUJA,2001,Whole Year,Sugarcane,30.9845,,,,40.33791667
-Chhattisgarh,SURGUJA,2002,Whole Year,Sugarcane,31.53692,,,,37.75958333
-Gujarat,AHMADABAD,1999,Whole Year,Sugarcane,33.58892,,,,30.27208333
-Gujarat,AHMADABAD,2000,Whole Year,Sugarcane,33.839,,,,27.8775
-Gujarat,AHMADABAD,2001,Whole Year,Sugarcane,33.60867,,,,31.25841667
-Gujarat,AHMADABAD,2002,Whole Year,Sugarcane,34.08958,,,,32.61216667
-Gujarat,AMRELI,1999,Whole Year,Sugarcane,26.057,,,,26.99566667
-Gujarat,AMRELI,2000,Whole Year,Sugarcane,26.05417,,,,25.63558333
-Gujarat,AMRELI,2002,Whole Year,Sugarcane,26.39392,,,,28.31733333
-Gujarat,BANAS KANTHA,1999,Whole Year,Sugarcane,34.43717,,,,25.79516667
-Gujarat,BANAS KANTHA,2000,Whole Year,Sugarcane,34.74767,,,,23.74408333
-Gujarat,BHARUCH,1999,Whole Year,Sugarcane,32.48783,,,,31.95558333
-Gujarat,BHARUCH,2000,Whole Year,Sugarcane,32.7975,,,,28.828
-Gujarat,BHARUCH,2001,Whole Year,Sugarcane,32.544,,,,32.02416667
-Gujarat,BHARUCH,2002,Whole Year,Sugarcane,32.99867,,,,32.85525
-Gujarat,BHAVNAGAR,1999,Whole Year,Sugarcane,32.03575,,,,32.49308333
-Gujarat,BHAVNAGAR,2000,Whole Year,Sugarcane,32.14325,,,,30.57966667
-Gujarat,BHAVNAGAR,2001,Whole Year,Sugarcane,32.09275,,,,33.35466667
-Gujarat,BHAVNAGAR,2002,Whole Year,Sugarcane,32.51758,,,,34.35933333
-Gujarat,KACHCHH,1999,Whole Year,Sugarcane,27.64083,,,,22.51491667
-Gujarat,KACHCHH,2001,Whole Year,Sugarcane,27.65417,,,,23.00391667
-Gujarat,KACHCHH,2002,Whole Year,Sugarcane,27.79175,,,,23.84525
-Gujarat,KHEDA,1999,Whole Year,Sugarcane,34.44417,,,,30.64183333
-Gujarat,KHEDA,2000,Whole Year,Sugarcane,34.13033,,,,27.644
-Gujarat,KHEDA,2001,Whole Year,Sugarcane,34.62,,,,31.33891667
-Gujarat,RAJKOT,1999,Whole Year,Sugarcane,32.2455,,,,30.68325
-Gujarat,RAJKOT,2000,Whole Year,Sugarcane,32.2925,,,,29.02066667
-Gujarat,RAJKOT,2001,Whole Year,Sugarcane,32.2235,,,,31.31925
-Gujarat,RAJKOT,2002,Whole Year,Sugarcane,32.50142,,,,32.398
-Gujarat,SABAR KANTHA,1999,Whole Year,Sugarcane,34.16492,,,,28.90633333
-Gujarat,SABAR KANTHA,2000,Whole Year,Sugarcane,34.4655,,,,26.38141667
-Gujarat,SABAR KANTHA,2001,Whole Year,Sugarcane,34.09825,,,,29.97675
-Gujarat,SABAR KANTHA,2002,Whole Year,Sugarcane,34.67517,,,,31.45325
-Gujarat,SURAT,1999,Whole Year,Sugarcane,25.6695,,,,26.78525
-Gujarat,SURAT,2000,Whole Year,Sugarcane,25.86908,,,,24.11241667
-Gujarat,SURAT,2001,Whole Year,Sugarcane,25.70825,,,,26.40241667
-Gujarat,SURAT,2002,Whole Year,Sugarcane,26.02508,,,,26.7525
-Gujarat,SURENDRANAGAR,1999,Whole Year,Sugarcane,33.2885,,,,29.81091667
-Gujarat,SURENDRANAGAR,2000,Whole Year,Sugarcane,33.47325,,,,27.752
-Gujarat,SURENDRANAGAR,2001,Whole Year,Sugarcane,33.2765,,,,30.69741667
-Gujarat,SURENDRANAGAR,2002,Whole Year,Sugarcane,33.66983,,,,32.034
-Gujarat,VADODARA,1999,Whole Year,Sugarcane,33.93208,,,,32.40758333
-Gujarat,VADODARA,2000,Whole Year,Sugarcane,34.20717,,,,29.15241667
-Gujarat,VADODARA,2001,Whole Year,Sugarcane,33.9075,,,,32.63533333
-Gujarat,VADODARA,2002,Whole Year,Sugarcane,34.35475,,,,33.37775
-Haryana,AMBALA,1999,Whole Year,Sugarcane,32.38508,,,,30.18316667
-Haryana,AMBALA,2000,Whole Year,Sugarcane,31.76225,,,,32.68716667
-Haryana,AMBALA,2001,Whole Year,Sugarcane,31.84858,,,,31.78608333
-Haryana,AMBALA,2002,Whole Year,Sugarcane,32.03925,,,,33.87025
-Haryana,BHIWANI,1999,Whole Year,Sugarcane,32.41467,,,,26.68158333
-Haryana,BHIWANI,2000,Whole Year,Sugarcane,32.18583,,,,28.86291667
-Haryana,BHIWANI,2001,Whole Year,Sugarcane,32.11033,,,,29.10033333
-Haryana,BHIWANI,2002,Whole Year,Sugarcane,32.53508,,,,30.189
-Haryana,FARIDABAD,1999,Whole Year,Sugarcane,32.27533,,,,30.62258333
-Haryana,FARIDABAD,2000,Whole Year,Sugarcane,32.00633,,,,33.06316667
-Haryana,FARIDABAD,2001,Whole Year,Sugarcane,31.99967,,,,33.05458333
-Haryana,FARIDABAD,2002,Whole Year,Sugarcane,32.50475,,,,34.60291667
-Haryana,FATEHABAD,1999,Whole Year,Sugarcane,32.81033,,,,24.64633333
-Haryana,FATEHABAD,2000,Whole Year,Sugarcane,32.55792,,,,27.17566667
-Haryana,FATEHABAD,2001,Whole Year,Sugarcane,32.52817,,,,26.91591667
-Haryana,FATEHABAD,2002,Whole Year,Sugarcane,32.88175,,,,27.85191667
-Haryana,GURGAON,1999,Whole Year,Sugarcane,32.07175,,,,30.06691667
-Haryana,GURGAON,2000,Whole Year,Sugarcane,31.837,,,,32.4225
-Haryana,GURGAON,2001,Whole Year,Sugarcane,31.78767,,,,32.54141667
-Haryana,GURGAON,2002,Whole Year,Sugarcane,32.306,,,,34.01358333
-Haryana,HISAR,1999,Whole Year,Sugarcane,32.66025,,,,25.6485
-Haryana,HISAR,2000,Whole Year,Sugarcane,32.41625,,,,28.05883333
-Haryana,HISAR,2001,Whole Year,Sugarcane,32.37892,,,,27.97641667
-Haryana,HISAR,2002,Whole Year,Sugarcane,32.74758,,,,28.99525
-Haryana,JHAJJAR,1999,Whole Year,Sugarcane,32.08708,,,,28.85675
-Haryana,JHAJJAR,2000,Whole Year,Sugarcane,31.82533,,,,31.32658333
-Haryana,JHAJJAR,2001,Whole Year,Sugarcane,31.7925,,,,31.23591667
-Haryana,JHAJJAR,2002,Whole Year,Sugarcane,32.21292,,,,32.62233333
-Haryana,JIND,1999,Whole Year,Sugarcane,32.33933,,,,26.9115
-Haryana,JIND,2000,Whole Year,Sugarcane,32.025,,,,29.66825
-Haryana,JIND,2001,Whole Year,Sugarcane,32.038,,,,29.18741667
-Haryana,JIND,2002,Whole Year,Sugarcane,32.39833,,,,30.40633333
-Haryana,KAITHAL,1999,Whole Year,Sugarcane,32.41283,,,,27.2675
-Haryana,KAITHAL,2000,Whole Year,Sugarcane,32.0205,,,,30.08366667
-Haryana,KAITHAL,2001,Whole Year,Sugarcane,32.06742,,,,29.37775
-Haryana,KAITHAL,2002,Whole Year,Sugarcane,32.37217,,,,30.7455
-Haryana,KARNAL,1999,Whole Year,Sugarcane,32.24792,,,,
-Haryana,KARNAL,2000,Whole Year,Sugarcane,31.77642,,,,
-Haryana,KARNAL,2001,Whole Year,Sugarcane,31.84525,,,,
-Haryana,KARNAL,2002,Whole Year,Sugarcane,32.10342,,,,
-Haryana,KURUKSHETRA,1999,Whole Year,Sugarcane,32.35342,,,,
-Haryana,KURUKSHETRA,2000,Whole Year,Sugarcane,31.80967,,,,
-Haryana,KURUKSHETRA,2001,Whole Year,Sugarcane,31.886,,,,
-Haryana,KURUKSHETRA,2002,Whole Year,Sugarcane,32.10917,,,,
-Haryana,MAHENDRAGARH,1999,Whole Year,Sugarcane,31.8985,,,,
-Haryana,MAHENDRAGARH,2000,Whole Year,Sugarcane,31.7045,,,,
-Haryana,MAHENDRAGARH,2001,Whole Year,Sugarcane,31.58242,,,,
-Haryana,PANCHKULA,1999,Whole Year,Sugarcane,32.62533,,,,
-Haryana,PANCHKULA,2000,Whole Year,Sugarcane,32,,,,
-Haryana,PANCHKULA,2001,Whole Year,Sugarcane,32.08883,,,,
-Haryana,PANCHKULA,2002,Whole Year,Sugarcane,32.23833,,,,
-Haryana,PANIPAT,1999,Whole Year,Sugarcane,,,,,
-Haryana,PANIPAT,2000,Whole Year,Sugarcane,,,,,
-Haryana,PANIPAT,2001,Whole Year,Sugarcane,,,,,
-Haryana,PANIPAT,2002,Whole Year,Sugarcane,,,,,
-Haryana,REWARI,1999,Whole Year,Sugarcane,,,,,
-Haryana,REWARI,2000,Whole Year,Sugarcane,,,,,
-Haryana,REWARI,2001,Whole Year,Sugarcane,,,,,
-Haryana,REWARI,2002,Whole Year,Sugarcane,,,,,
-Haryana,ROHTAK,1999,Whole Year,Sugarcane,,,,,
-Haryana,ROHTAK,2000,Whole Year,Sugarcane,,,,,
-Haryana,ROHTAK,2001,Whole Year,Sugarcane,,,,,
-Haryana,ROHTAK,2002,Whole Year,Sugarcane,,,,,
-Haryana,SIRSA,1999,Whole Year,Sugarcane,,,,,
-Haryana,SIRSA,2000,Whole Year,Sugarcane,,,,,
-Haryana,SIRSA,2001,Whole Year,Sugarcane,,,,,
-Haryana,SIRSA,2002,Whole Year,Sugarcane,,,,,
-Haryana,SONIPAT,1999,Whole Year,Sugarcane,,,,,
-Haryana,SONIPAT,2000,Whole Year,Sugarcane,,,,,
-Haryana,SONIPAT,2001,Whole Year,Sugarcane,,,,,
-Haryana,SONIPAT,2002,Whole Year,Sugarcane,,,,,
-Haryana,YAMUNANAGAR,1999,Whole Year,Sugarcane,,,,,
-Haryana,YAMUNANAGAR,2000,Whole Year,Sugarcane,,,,,
-Haryana,YAMUNANAGAR,2001,Whole Year,Sugarcane,,,,,
-Haryana,YAMUNANAGAR,2002,Whole Year,Sugarcane,,,,,
-Himachal Pradesh,BILASPUR,1999,Whole Year,Sugarcane,,,,,
-Himachal Pradesh,BILASPUR,2000,Whole Year,Sugarcane,,,,,
-Himachal Pradesh,BILASPUR,2001,Whole Year,Sugarcane,,,,,
-Himachal Pradesh,BILASPUR,2002,Whole Year,Sugarcane,,,,,
-Himachal Pradesh,HAMIRPUR,1999,Whole Year,Sugarcane,,,,,
-Himachal Pradesh,HAMIRPUR,2000,Whole Year,Sugarcane,,,,,
-Himachal Pradesh,HAMIRPUR,2001,Whole Year,Sugarcane,,,,,
-Himachal Pradesh,HAMIRPUR,2002,Whole Year,Sugarcane,,,,,
-Himachal Pradesh,KANGRA,1999,Whole Year,Sugarcane,,,,,
-Himachal Pradesh,KANGRA,2000,Whole Year,Sugarcane,,,,,
-Himachal Pradesh,KANGRA,2001,Whole Year,Sugarcane,,,,,
-Himachal Pradesh,KANGRA,2002,Whole Year,Sugarcane,,,,,
-Himachal Pradesh,MANDI,2000,Whole Year,Sugarcane,,,,,
-Himachal Pradesh,MANDI,2001,Whole Year,Sugarcane,,,,,
-Himachal Pradesh,MANDI,2002,Whole Year,Sugarcane,,,,,
-Himachal Pradesh,SIRMAUR,1999,Whole Year,Sugarcane,,,,,
-Himachal Pradesh,SIRMAUR,2000,Whole Year,Sugarcane,,,,,
-Himachal Pradesh,SIRMAUR,2001,Whole Year,Sugarcane,,,,,
-Himachal Pradesh,SIRMAUR,2002,Whole Year,Sugarcane,,,,,
-Himachal Pradesh,SOLAN,1999,Whole Year,Sugarcane,,,,,
-Himachal Pradesh,SOLAN,2000,Whole Year,Sugarcane,,,,,
-Himachal Pradesh,SOLAN,2001,Whole Year,Sugarcane,,,,,
-Himachal Pradesh,SOLAN,2002,Whole Year,Sugarcane,,,,,
-Himachal Pradesh,UNA,1999,Whole Year,Sugarcane,,,,,
-Himachal Pradesh,UNA,2000,Whole Year,Sugarcane,,,,,
-Himachal Pradesh,UNA,2001,Whole Year,Sugarcane,,,,,
-Himachal Pradesh,UNA,2002,Whole Year,Sugarcane,,,,,
-Jammu and Kashmir,JAMMU,1999,Whole Year,Sugarcane,,,,,
-Jammu and Kashmir,JAMMU,2000,Whole Year,Sugarcane,,,,,
-Jammu and Kashmir,JAMMU,2001,Whole Year,Sugarcane,,,,,
-Jammu and Kashmir,JAMMU,2002,Whole Year,Sugarcane,,,,,
-Jammu and Kashmir,KATHUA,1999,Whole Year,Sugarcane,,,,,
-Jammu and Kashmir,KATHUA,2000,Whole Year,Sugarcane,,,,,
-Jammu and Kashmir,KATHUA,2001,Whole Year,Sugarcane,,,,,
-Jammu and Kashmir,KATHUA,2002,Whole Year,Sugarcane,,,,,
-Jammu and Kashmir,RAJAURI,1999,Whole Year,Sugarcane,,,,,
-Jammu and Kashmir,RAJAURI,2000,Whole Year,Sugarcane,,,,,
-Jammu and Kashmir,RAJAURI,2001,Whole Year,Sugarcane,,,,,
-Jammu and Kashmir,RAJAURI,2002,Whole Year,Sugarcane,,,,,
-Jammu and Kashmir,UDHAMPUR,1999,Whole Year,Sugarcane,,,,,
-Jammu and Kashmir,UDHAMPUR,2000,Whole Year,Sugarcane,,,,,
-Jammu and Kashmir,UDHAMPUR,2001,Whole Year,Sugarcane,,,,,
-Jammu and Kashmir,UDHAMPUR,2002,Whole Year,Sugarcane,,,,,
-Mizoram,AIZAWL,1999,Whole Year,Sugarcane,,,,,
-Mizoram,AIZAWL,2000,Whole Year,Sugarcane,,,,,
-Mizoram,AIZAWL,2001,Whole Year,Sugarcane,,,,,
-Mizoram,AIZAWL,2002,Whole Year,Sugarcane,,,,,
-Mizoram,CHAMPHAI,2000,Whole Year,Sugarcane,,,,,
-Mizoram,CHAMPHAI,2001,Whole Year,Sugarcane,,,,,
-Mizoram,CHAMPHAI,2002,Whole Year,Sugarcane,,,,,
-Mizoram,KOLASIB,1999,Whole Year,Sugarcane,,,,,
-Mizoram,KOLASIB,2000,Whole Year,Sugarcane,,,,,
-Mizoram,KOLASIB,2001,Whole Year,Sugarcane,,,,,
-Mizoram,KOLASIB,2002,Whole Year,Sugarcane,,,,,
-Mizoram,LUNGLEI,1999,Whole Year,Sugarcane,,,,,
-Mizoram,LUNGLEI,2000,Whole Year,Sugarcane,,,,,
-Mizoram,LUNGLEI,2001,Whole Year,Sugarcane,,,,,
-Mizoram,LUNGLEI,2002,Whole Year,Sugarcane,,,,,
-Nagaland,DIMAPUR,2000,Whole Year,Sugarcane,,,,,
-Nagaland,DIMAPUR,2001,Whole Year,Sugarcane,,,,,
-Nagaland,DIMAPUR,2002,Whole Year,Sugarcane,,,,,
-Nagaland,KOHIMA,1999,Whole Year,Sugarcane,,,,,
-Nagaland,KOHIMA,2000,Whole Year,Sugarcane,,,,,
-Nagaland,KOHIMA,2001,Whole Year,Sugarcane,,,,,
-Nagaland,KOHIMA,2002,Whole Year,Sugarcane,,,,,
-Nagaland,MOKOKCHUNG,2000,Whole Year,Sugarcane,,,,,
-Nagaland,MOKOKCHUNG,2001,Whole Year,Sugarcane,,,,,
-Nagaland,MOKOKCHUNG,2002,Whole Year,Sugarcane,,,,,
-Nagaland,MON,2000,Whole Year,Sugarcane,,,,,
-Nagaland,MON,2001,Whole Year,Sugarcane,,,,,
-Nagaland,MON,2002,Whole Year,Sugarcane,,,,,
-Nagaland,WOKHA,1999,Whole Year,Sugarcane,,,,,
-Nagaland,WOKHA,2000,Whole Year,Sugarcane,,,,,
-Nagaland,WOKHA,2001,Whole Year,Sugarcane,,,,,
-Nagaland,WOKHA,2002,Whole Year,Sugarcane,,,,,
-Nagaland,ZUNHEBOTO,1999,Whole Year,Sugarcane,,,,,
-Nagaland,ZUNHEBOTO,2000,Whole Year,Sugarcane,,,,,
-Nagaland,ZUNHEBOTO,2001,Whole Year,Sugarcane,,,,,
-Nagaland,ZUNHEBOTO,2002,Whole Year,Sugarcane,,,,,
-Odisha,ANUGUL,1999,Winter,Sugarcane,,,,,
-Odisha,ANUGUL,2000,Whole Year,Sugarcane,,,,,
-Odisha,ANUGUL,2001,Whole Year,Sugarcane,,,,,
-Odisha,ANUGUL,2002,Whole Year,Sugarcane,,,,,
-Odisha,BALANGIR,1999,Winter,Sugarcane,,,,,
-Odisha,BALANGIR,2000,Whole Year,Sugarcane,,,,,
-Odisha,BALANGIR,2001,Whole Year,Sugarcane,,,,,
-Odisha,BALANGIR,2002,Whole Year,Sugarcane,,,,,
-Odisha,BALESHWAR,1999,Winter,Sugarcane,,,,,
-Odisha,BALESHWAR,2000,Whole Year,Sugarcane,,,,,
-Odisha,BALESHWAR,2001,Whole Year,Sugarcane,,,,,
-Odisha,BALESHWAR,2002,Whole Year,Sugarcane,,,,,
-Odisha,BARGARH,1999,Winter,Sugarcane,,,,,
-Odisha,BARGARH,2000,Whole Year,Sugarcane,,,,,
-Odisha,BARGARH,2001,Whole Year,Sugarcane,,,,,
-Odisha,BARGARH,2002,Whole Year,Sugarcane,,,,,
-Odisha,BHADRAK,1999,Winter,Sugarcane,,,,,
-Odisha,BHADRAK,2000,Whole Year,Sugarcane,,,,,
-Odisha,BHADRAK,2001,Whole Year,Sugarcane,,,,,
-Odisha,BHADRAK,2002,Whole Year,Sugarcane,,,,,
-Odisha,BOUDH,1999,Winter,Sugarcane,,,,,
-Odisha,BOUDH,2000,Whole Year,Sugarcane,,,,,
-Odisha,BOUDH,2001,Whole Year,Sugarcane,,,,,
-Odisha,BOUDH,2002,Whole Year,Sugarcane,,,,,
-Odisha,CUTTACK,1999,Winter,Sugarcane,,,,,
-Odisha,CUTTACK,2000,Whole Year,Sugarcane,,,,,
-Odisha,CUTTACK,2001,Whole Year,Sugarcane,,,,,
-Odisha,CUTTACK,2002,Whole Year,Sugarcane,,,,,
-Odisha,DEOGARH,1999,Winter,Sugarcane,,,,,
-Odisha,DEOGARH,2000,Whole Year,Sugarcane,,,,,
-Odisha,DEOGARH,2001,Whole Year,Sugarcane,,,,,
-Odisha,DEOGARH,2002,Whole Year,Sugarcane,,,,,
-Odisha,DHENKANAL,1999,Winter,Sugarcane,,,,,
-Odisha,DHENKANAL,2000,Whole Year,Sugarcane,,,,,
-Odisha,DHENKANAL,2001,Whole Year,Sugarcane,,,,,
-Odisha,DHENKANAL,2002,Whole Year,Sugarcane,,,,,
-Odisha,GAJAPATI,1999,Winter,Sugarcane,,,,,
-Odisha,GAJAPATI,2000,Whole Year,Sugarcane,,,,,
-Odisha,GAJAPATI,2001,Whole Year,Sugarcane,,,,,
-Odisha,GAJAPATI,2002,Whole Year,Sugarcane,,,,,
-Odisha,GANJAM,1999,Winter,Sugarcane,,,,,
-Odisha,GANJAM,2000,Whole Year,Sugarcane,,,,,
-Odisha,GANJAM,2001,Whole Year,Sugarcane,,,,,
-Odisha,GANJAM,2002,Whole Year,Sugarcane,,,,,
-Odisha,JAGATSINGHAPUR,1999,Winter,Sugarcane,,,,,
-Odisha,JAGATSINGHAPUR,2000,Whole Year,Sugarcane,,,,,
-Odisha,JAGATSINGHAPUR,2001,Whole Year,Sugarcane,,,,,
-Odisha,JAGATSINGHAPUR,2002,Whole Year,Sugarcane,,,,,
-Odisha,JAJAPUR,1999,Winter,Sugarcane,,,,,
-Odisha,JAJAPUR,2000,Whole Year,Sugarcane,,,,,
-Odisha,JAJAPUR,2001,Whole Year,Sugarcane,,,,,
-Odisha,JAJAPUR,2002,Whole Year,Sugarcane,,,,,
-Odisha,JHARSUGUDA,1999,Winter,Sugarcane,,,,,
-Odisha,JHARSUGUDA,2000,Whole Year,Sugarcane,,,,,
-Odisha,JHARSUGUDA,2001,Whole Year,Sugarcane,,,,,
-Odisha,JHARSUGUDA,2002,Whole Year,Sugarcane,,,,,
-Odisha,KALAHANDI,1999,Winter,Sugarcane,,,,,
-Odisha,KALAHANDI,2000,Whole Year,Sugarcane,,,,,
-Odisha,KALAHANDI,2001,Whole Year,Sugarcane,,,,,
-Odisha,KALAHANDI,2002,Whole Year,Sugarcane,,,,,
-Odisha,KANDHAMAL,1999,Winter,Sugarcane,,,,,
-Odisha,KANDHAMAL,2001,Whole Year,Sugarcane,,,,,
-Odisha,KENDRAPARA,1999,Winter,Sugarcane,,,,,
-Odisha,KENDRAPARA,2000,Whole Year,Sugarcane,,,,,
-Odisha,KENDRAPARA,2001,Whole Year,Sugarcane,,,,,
-Odisha,KENDRAPARA,2002,Whole Year,Sugarcane,,,,,
-Odisha,KENDUJHAR,1999,Winter,Sugarcane,,,,,
-Odisha,KENDUJHAR,2000,Whole Year,Sugarcane,,,,,
-Odisha,KENDUJHAR,2001,Whole Year,Sugarcane,,,,,
-Odisha,KENDUJHAR,2002,Whole Year,Sugarcane,,,,,
-Odisha,KHORDHA,1999,Winter,Sugarcane,,,,,
-Odisha,KHORDHA,2000,Whole Year,Sugarcane,,,,,
-Odisha,KHORDHA,2001,Whole Year,Sugarcane,,,,,
-Odisha,KHORDHA,2002,Whole Year,Sugarcane,,,,,
-Odisha,KORAPUT,1999,Winter,Sugarcane,,,,,
-Odisha,KORAPUT,2000,Whole Year,Sugarcane,,,,,
-Odisha,KORAPUT,2001,Whole Year,Sugarcane,,,,,
-Odisha,KORAPUT,2002,Whole Year,Sugarcane,,,,,
-Odisha,MALKANGIRI,1999,Winter,Sugarcane,,,,,
-Odisha,MALKANGIRI,2000,Whole Year,Sugarcane,,,,,
-Odisha,MAYURBHANJ,1999,Winter,Sugarcane,,,,,
-Odisha,MAYURBHANJ,2000,Whole Year,Sugarcane,,,,,
-Odisha,MAYURBHANJ,2001,Whole Year,Sugarcane,,,,,
-Odisha,MAYURBHANJ,2002,Whole Year,Sugarcane,,,,,
-Odisha,NABARANGPUR,1999,Winter,Sugarcane,,,,,
-Odisha,NABARANGPUR,2000,Whole Year,Sugarcane,,,,,
-Odisha,NABARANGPUR,2001,Whole Year,Sugarcane,,,,,
-Odisha,NABARANGPUR,2002,Whole Year,Sugarcane,,,,,
-Odisha,NAYAGARH,1999,Winter,Sugarcane,,,,,
-Odisha,NAYAGARH,2000,Whole Year,Sugarcane,,,,,
-Odisha,NAYAGARH,2001,Whole Year,Sugarcane,,,,,
-Odisha,NAYAGARH,2002,Whole Year,Sugarcane,,,,,
-Odisha,NUAPADA,1999,Winter,Sugarcane,,,,,
-Odisha,NUAPADA,2000,Whole Year,Sugarcane,,,,,
-Odisha,NUAPADA,2001,Whole Year,Sugarcane,,,,,
-Odisha,NUAPADA,2002,Whole Year,Sugarcane,,,,,
-Odisha,PURI,1999,Winter,Sugarcane,,,,,
-Odisha,PURI,2000,Whole Year,Sugarcane,,,,,
-Odisha,PURI,2001,Whole Year,Sugarcane,,,,,
-Odisha,PURI,2002,Whole Year,Sugarcane,,,,,
-Odisha,RAYAGADA,1999,Winter,Sugarcane,,,,,
-Odisha,RAYAGADA,2000,Whole Year,Sugarcane,,,,,
-Odisha,RAYAGADA,2001,Whole Year,Sugarcane,,,,,
-Odisha,RAYAGADA,2002,Whole Year,Sugarcane,,,,,
-Odisha,SAMBALPUR,1999,Winter,Sugarcane,,,,,
-Odisha,SAMBALPUR,2000,Whole Year,Sugarcane,,,,,
-Odisha,SAMBALPUR,2001,Whole Year,Sugarcane,,,,,
-Odisha,SAMBALPUR,2002,Whole Year,Sugarcane,,,,,
-Odisha,SONEPUR,1999,Winter,Sugarcane,,,,,
-Odisha,SONEPUR,2000,Whole Year,Sugarcane,,,,,
-Odisha,SONEPUR,2001,Whole Year,Sugarcane,,,,,
-Odisha,SONEPUR,2002,Whole Year,Sugarcane,,,,,
-Odisha,SUNDARGARH,1999,Winter,Sugarcane,,,,,
-Odisha,SUNDARGARH,2000,Whole Year,Sugarcane,,,,,
-Odisha,SUNDARGARH,2001,Whole Year,Sugarcane,,,,,
-Odisha,SUNDARGARH,2002,Whole Year,Sugarcane,,,,,
-Punjab,AMRITSAR,1999,Whole Year,Sugarcane,,,,,
-Punjab,AMRITSAR,2000,Whole Year,Sugarcane,,,,,
-Punjab,AMRITSAR,2001,Whole Year,Sugarcane,,,,,
-Punjab,AMRITSAR,2002,Whole Year,Sugarcane,,,,,
-Punjab,BATHINDA,2001,Whole Year,Sugarcane,,,,,
-Punjab,BATHINDA,2002,Whole Year,Sugarcane,,,,,
-Punjab,FARIDKOT,1999,Whole Year,Sugarcane,,,,,
-Punjab,FARIDKOT,2000,Whole Year,Sugarcane,,,,,
-Punjab,FARIDKOT,2001,Whole Year,Sugarcane,,,,,
-Punjab,FARIDKOT,2002,Whole Year,Sugarcane,,,,,
-Punjab,FATEHGARH SAHIB,1999,Whole Year,Sugarcane,,,,,
-Punjab,FATEHGARH SAHIB,2000,Whole Year,Sugarcane,,,,,
-Punjab,FATEHGARH SAHIB,2001,Whole Year,Sugarcane,,,,,
-Punjab,FATEHGARH SAHIB,2002,Whole Year,Sugarcane,,,,,
-Punjab,FIROZEPUR,1999,Whole Year,Sugarcane,,,,,
-Punjab,FIROZEPUR,2000,Whole Year,Sugarcane,,,,,
-Punjab,FIROZEPUR,2001,Whole Year,Sugarcane,,,,,
-Punjab,FIROZEPUR,2002,Whole Year,Sugarcane,,,,,
-Punjab,GURDASPUR,1999,Whole Year,Sugarcane,,,,,
-Punjab,GURDASPUR,2000,Whole Year,Sugarcane,,,,,
-Punjab,GURDASPUR,2001,Whole Year,Sugarcane,,,,,
-Punjab,GURDASPUR,2002,Whole Year,Sugarcane,,,,,
-Punjab,HOSHIARPUR,1999,Whole Year,Sugarcane,,,,,
-Punjab,HOSHIARPUR,2000,Whole Year,Sugarcane,,,,,
-Punjab,HOSHIARPUR,2001,Whole Year,Sugarcane,,,,,
-Punjab,HOSHIARPUR,2002,Whole Year,Sugarcane,,,,,
-Punjab,JALANDHAR,1999,Whole Year,Sugarcane,,,,,
-Punjab,JALANDHAR,2000,Whole Year,Sugarcane,,,,,
-Punjab,JALANDHAR,2001,Whole Year,Sugarcane,,,,,
-Punjab,JALANDHAR,2002,Whole Year,Sugarcane,,,,,
-Punjab,KAPURTHALA,1999,Whole Year,Sugarcane,,,,,
-Punjab,KAPURTHALA,2000,Whole Year,Sugarcane,,,,,
-Punjab,KAPURTHALA,2001,Whole Year,Sugarcane,,,,,
-Punjab,KAPURTHALA,2002,Whole Year,Sugarcane,,,,,
-Punjab,LUDHIANA,1999,Whole Year,Sugarcane,,,,,
-Punjab,LUDHIANA,2000,Whole Year,Sugarcane,,,,,
-Punjab,LUDHIANA,2001,Whole Year,Sugarcane,,,,,
-Punjab,LUDHIANA,2002,Whole Year,Sugarcane,,,,,
-Punjab,MANSA,1999,Whole Year,Sugarcane,,,,,
-Punjab,MANSA,2000,Whole Year,Sugarcane,,,,,
-Punjab,MANSA,2001,Whole Year,Sugarcane,,,,,
-Punjab,MANSA,2002,Whole Year,Sugarcane,,,,,
-Punjab,MOGA,2000,Whole Year,Sugarcane,,,,,
-Punjab,MOGA,2001,Whole Year,Sugarcane,,,,,
-Punjab,MOGA,2002,Whole Year,Sugarcane,,,,,
-Punjab,MUKTSAR,1999,Whole Year,Sugarcane,,,,,
-Punjab,MUKTSAR,2000,Whole Year,Sugarcane,,,,,
-Punjab,MUKTSAR,2001,Whole Year,Sugarcane,,,,,
-Punjab,MUKTSAR,2002,Whole Year,Sugarcane,,,,,
-Punjab,NAWANSHAHR,1999,Whole Year,Sugarcane,,,,,
-Punjab,NAWANSHAHR,2000,Whole Year,Sugarcane,,,,,
-Punjab,NAWANSHAHR,2001,Whole Year,Sugarcane,,,,,
-Punjab,NAWANSHAHR,2002,Whole Year,Sugarcane,,,,,
-Punjab,PATIALA,1999,Whole Year,Sugarcane,,,,,
-Punjab,PATIALA,2000,Whole Year,Sugarcane,,,,,
-Punjab,PATIALA,2001,Whole Year,Sugarcane,,,,,
-Punjab,PATIALA,2002,Whole Year,Sugarcane,,,,,
-Punjab,RUPNAGAR,1999,Whole Year,Sugarcane,,,,,
-Punjab,RUPNAGAR,2000,Whole Year,Sugarcane,,,,,
-Punjab,RUPNAGAR,2001,Whole Year,Sugarcane,,,,,
-Punjab,RUPNAGAR,2002,Whole Year,Sugarcane,,,,,
-Punjab,SANGRUR,1999,Whole Year,Sugarcane,,,,,
-Punjab,SANGRUR,2000,Whole Year,Sugarcane,,,,,
-Punjab,SANGRUR,2001,Whole Year,Sugarcane,,,,,
-Punjab,SANGRUR,2002,Whole Year,Sugarcane,,,,,
-Rajasthan,AJMER,1999,Whole Year,Sugarcane,,,,,
-Rajasthan,AJMER,2000,Whole Year,Sugarcane,,,,,
-Rajasthan,AJMER,2001,Whole Year,Sugarcane,,,,,
-Rajasthan,AJMER,2002,Whole Year,Sugarcane,,,,,
-Rajasthan,ALWAR,1999,Whole Year,Sugarcane,,,,,
-Rajasthan,ALWAR,2000,Whole Year,Sugarcane,,,,,
-Rajasthan,ALWAR,2001,Whole Year,Sugarcane,,,,,
-Rajasthan,ALWAR,2002,Whole Year,Sugarcane,,,,,
-Rajasthan,BANSWARA,1999,Whole Year,Sugarcane,,,,,
-Rajasthan,BANSWARA,2000,Whole Year,Sugarcane,,,,,
-Rajasthan,BANSWARA,2001,Whole Year,Sugarcane,,,,,
-Rajasthan,BANSWARA,2002,Whole Year,Sugarcane,,,,,
-Rajasthan,BARAN,1999,Whole Year,Sugarcane,,,,,
-Rajasthan,BARAN,2000,Whole Year,Sugarcane,,,,,
-Rajasthan,BARAN,2001,Whole Year,Sugarcane,,,,,
-Rajasthan,BARAN,2002,Whole Year,Sugarcane,,,,,
-Rajasthan,BHARATPUR,1999,Whole Year,Sugarcane,,,,,
-Rajasthan,BHARATPUR,2000,Whole Year,Sugarcane,,,,,
-Rajasthan,BHARATPUR,2001,Whole Year,Sugarcane,,,,,
-Rajasthan,BHARATPUR,2002,Whole Year,Sugarcane,,,,,
-Rajasthan,BHILWARA,1999,Whole Year,Sugarcane,,,,,
-Rajasthan,BHILWARA,2000,Whole Year,Sugarcane,,,,,
-Rajasthan,BHILWARA,2001,Whole Year,Sugarcane,,,,,
-Rajasthan,BHILWARA,2002,Whole Year,Sugarcane,,,,,
-Rajasthan,BIKANER,1999,Whole Year,Sugarcane,,,,,
-Rajasthan,BIKANER,2000,Whole Year,Sugarcane,,,,,
-Rajasthan,BIKANER,2001,Whole Year,Sugarcane,,,,,
-Rajasthan,BIKANER,2002,Whole Year,Sugarcane,,,,,
-Rajasthan,BUNDI,1999,Whole Year,Sugarcane,,,,,
-Rajasthan,BUNDI,2000,Whole Year,Sugarcane,,,,,
-Rajasthan,BUNDI,2001,Whole Year,Sugarcane,,,,,
-Rajasthan,BUNDI,2002,Whole Year,Sugarcane,,,,,
-Rajasthan,CHITTORGARH,1999,Whole Year,Sugarcane,,,,,
-Rajasthan,CHITTORGARH,2000,Whole Year,Sugarcane,,,,,
-Rajasthan,CHITTORGARH,2001,Whole Year,Sugarcane,,,,,
-Rajasthan,CHITTORGARH,2002,Whole Year,Sugarcane,,,,,
-Rajasthan,DAUSA,1999,Whole Year,Sugarcane,,,,,
-Rajasthan,DAUSA,2000,Whole Year,Sugarcane,,,,,
-Rajasthan,DAUSA,2001,Whole Year,Sugarcane,,,,,
-Rajasthan,DAUSA,2002,Whole Year,Sugarcane,,,,,
-Rajasthan,DHOLPUR,1999,Whole Year,Sugarcane,,,,,
-Rajasthan,DHOLPUR,2000,Whole Year,Sugarcane,,,,,
-Rajasthan,DHOLPUR,2001,Whole Year,Sugarcane,,,,,
-Rajasthan,DHOLPUR,2002,Whole Year,Sugarcane,,,,,
-Rajasthan,DUNGARPUR,1999,Whole Year,Sugarcane,,,,,
-Rajasthan,DUNGARPUR,2000,Whole Year,Sugarcane,,,,,
-Rajasthan,DUNGARPUR,2001,Whole Year,Sugarcane,,,,,
-Rajasthan,DUNGARPUR,2002,Whole Year,Sugarcane,,,,,
-Rajasthan,GANGANAGAR,1999,Whole Year,Sugarcane,,,,,
-Rajasthan,GANGANAGAR,2000,Whole Year,Sugarcane,,,,,
-Rajasthan,GANGANAGAR,2001,Whole Year,Sugarcane,,,,,
-Rajasthan,GANGANAGAR,2002,Whole Year,Sugarcane,,,,,
-Rajasthan,HANUMANGARH,1999,Whole Year,Sugarcane,,,,,
-Rajasthan,HANUMANGARH,2000,Whole Year,Sugarcane,,,,,
-Rajasthan,HANUMANGARH,2001,Whole Year,Sugarcane,,,,,
-Rajasthan,HANUMANGARH,2002,Whole Year,Sugarcane,,,,,
-Rajasthan,JAIPUR,1999,Whole Year,Sugarcane,,,,,
-Rajasthan,JAIPUR,2000,Whole Year,Sugarcane,,,,,
-Rajasthan,JAIPUR,2001,Whole Year,Sugarcane,,,,,
-Rajasthan,JAIPUR,2002,Whole Year,Sugarcane,,,,,
-Rajasthan,JAISALMER,1999,Whole Year,Sugarcane,,,,,
-Rajasthan,JHALAWAR,1999,Whole Year,Sugarcane,,,,,
-Rajasthan,JHALAWAR,2000,Whole Year,Sugarcane,,,,,
-Rajasthan,JHALAWAR,2001,Whole Year,Sugarcane,,,,,
-Rajasthan,JHALAWAR,2002,Whole Year,Sugarcane,,,,,
-Rajasthan,JHUNJHUNU,1999,Whole Year,Sugarcane,,,,,
-Rajasthan,JODHPUR,2002,Whole Year,Sugarcane,,,,,
-Rajasthan,KARAULI,1999,Whole Year,Sugarcane,,,,,
-Rajasthan,KARAULI,2000,Whole Year,Sugarcane,,,,,
-Rajasthan,KARAULI,2001,Whole Year,Sugarcane,,,,,
-Rajasthan,KARAULI,2002,Whole Year,Sugarcane,,,,,
-Rajasthan,KOTA,1999,Whole Year,Sugarcane,,,,,
-Rajasthan,KOTA,2000,Whole Year,Sugarcane,,,,,
-Rajasthan,KOTA,2001,Whole Year,Sugarcane,,,,,
-Rajasthan,KOTA,2002,Whole Year,Sugarcane,,,,,
-Rajasthan,NAGAUR,2001,Whole Year,Sugarcane,,,,,
-Rajasthan,NAGAUR,2002,Whole Year,Sugarcane,,,,,
-Rajasthan,PALI,1999,Whole Year,Sugarcane,,,,,
-Rajasthan,PALI,2000,Whole Year,Sugarcane,,,,,
-Rajasthan,RAJSAMAND,1999,Whole Year,Sugarcane,,,,,
-Rajasthan,RAJSAMAND,2000,Whole Year,Sugarcane,,,,,
-Rajasthan,RAJSAMAND,2001,Whole Year,Sugarcane,,,,,
-Rajasthan,RAJSAMAND,2002,Whole Year,Sugarcane,,,,,
-Rajasthan,SAWAI MADHOPUR,1999,Whole Year,Sugarcane,,,,,
-Rajasthan,SAWAI MADHOPUR,2000,Whole Year,Sugarcane,,,,,
-Rajasthan,SAWAI MADHOPUR,2001,Whole Year,Sugarcane,,,,,
-Rajasthan,SAWAI MADHOPUR,2002,Whole Year,Sugarcane,,,,,
-Rajasthan,SIKAR,1999,Whole Year,Sugarcane,,,,,
-Rajasthan,SIKAR,2000,Whole Year,Sugarcane,,,,,
-Rajasthan,SIKAR,2001,Whole Year,Sugarcane,,,,,
-Rajasthan,SIKAR,2002,Whole Year,Sugarcane,,,,,
-Rajasthan,TONK,1999,Whole Year,Sugarcane,,,,,
-Rajasthan,TONK,2000,Whole Year,Sugarcane,,,,,
-Rajasthan,TONK,2001,Whole Year,Sugarcane,,,,,
-Rajasthan,TONK,2002,Whole Year,Sugarcane,,,,,
-Rajasthan,UDAIPUR,1999,Whole Year,Sugarcane,,,,,
-Rajasthan,UDAIPUR,2000,Whole Year,Sugarcane,,,,,
-Rajasthan,UDAIPUR,2001,Whole Year,Sugarcane,,,,,
-Rajasthan,UDAIPUR,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,AGRA,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,AGRA,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,AGRA,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,AGRA,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,ALIGARH,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,ALIGARH,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,ALIGARH,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,ALIGARH,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,ALLAHABAD,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,ALLAHABAD,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,ALLAHABAD,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,ALLAHABAD,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,AMBEDKAR NAGAR,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,AMBEDKAR NAGAR,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,AMBEDKAR NAGAR,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,AMBEDKAR NAGAR,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,AMROHA,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,AMROHA,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,AMROHA,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,AMROHA,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,AURAIYA,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,AURAIYA,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,AURAIYA,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,AURAIYA,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,AZAMGARH,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,AZAMGARH,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,AZAMGARH,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,AZAMGARH,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BAGHPAT,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BAGHPAT,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BAGHPAT,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BAGHPAT,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BAHRAICH,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BAHRAICH,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BAHRAICH,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BAHRAICH,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BALLIA,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BALLIA,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BALLIA,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BALLIA,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BALRAMPUR,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BALRAMPUR,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BALRAMPUR,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BALRAMPUR,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BANDA,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BANDA,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BANDA,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BANDA,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BARABANKI,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BARABANKI,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BARABANKI,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BARABANKI,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BAREILLY,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BAREILLY,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BAREILLY,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BAREILLY,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BASTI,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BASTI,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BASTI,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BASTI,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BIJNOR,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BIJNOR,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BIJNOR,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BIJNOR,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BUDAUN,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BUDAUN,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BUDAUN,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BUDAUN,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BULANDSHAHR,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BULANDSHAHR,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BULANDSHAHR,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,BULANDSHAHR,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,CHANDAULI,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,CHANDAULI,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,CHANDAULI,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,CHANDAULI,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,CHITRAKOOT,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,CHITRAKOOT,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,CHITRAKOOT,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,CHITRAKOOT,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,DEORIA,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,DEORIA,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,DEORIA,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,DEORIA,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,ETAH,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,ETAH,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,ETAH,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,ETAH,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,ETAWAH,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,ETAWAH,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,ETAWAH,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,ETAWAH,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,FAIZABAD,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,FAIZABAD,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,FAIZABAD,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,FAIZABAD,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,FARRUKHABAD,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,FARRUKHABAD,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,FARRUKHABAD,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,FARRUKHABAD,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,FATEHPUR,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,FATEHPUR,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,FATEHPUR,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,FATEHPUR,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,FIROZABAD,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,FIROZABAD,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,FIROZABAD,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,FIROZABAD,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,GAUTAM BUDDHA NAGAR,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,GAUTAM BUDDHA NAGAR,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,GAUTAM BUDDHA NAGAR,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,GAUTAM BUDDHA NAGAR,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,GHAZIABAD,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,GHAZIABAD,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,GHAZIABAD,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,GHAZIABAD,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,GHAZIPUR,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,GHAZIPUR,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,GHAZIPUR,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,GHAZIPUR,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,GONDA,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,GONDA,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,GONDA,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,GONDA,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,GORAKHPUR,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,GORAKHPUR,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,GORAKHPUR,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,GORAKHPUR,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,HAMIRPUR,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,HAMIRPUR,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,HAMIRPUR,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,HAMIRPUR,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,HARDOI,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,HARDOI,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,HARDOI,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,HARDOI,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,HATHRAS,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,HATHRAS,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,HATHRAS,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,HATHRAS,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,JALAUN,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,JALAUN,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,JALAUN,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,JALAUN,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,JAUNPUR,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,JAUNPUR,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,JAUNPUR,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,JAUNPUR,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,JHANSI,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,JHANSI,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,JHANSI,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,JHANSI,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,KANNAUJ,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,KANNAUJ,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,KANNAUJ,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,KANNAUJ,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,KANPUR NAGAR,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,KANPUR NAGAR,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,KANPUR NAGAR,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,KANPUR NAGAR,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,KAUSHAMBI,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,KAUSHAMBI,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,KAUSHAMBI,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,KAUSHAMBI,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,KHERI,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,KHERI,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,KHERI,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,KHERI,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,KUSHI NAGAR,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,KUSHI NAGAR,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,KUSHI NAGAR,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,KUSHI NAGAR,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,LALITPUR,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,LALITPUR,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,LALITPUR,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,LALITPUR,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,LUCKNOW,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,LUCKNOW,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,LUCKNOW,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,LUCKNOW,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,MAHARAJGANJ,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,MAHARAJGANJ,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,MAHARAJGANJ,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,MAHARAJGANJ,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,MAHOBA,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,MAHOBA,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,MAHOBA,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,MAHOBA,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,MAINPURI,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,MAINPURI,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,MAINPURI,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,MAINPURI,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,MATHURA,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,MATHURA,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,MATHURA,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,MATHURA,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,MAU,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,MAU,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,MAU,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,MAU,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,MEERUT,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,MEERUT,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,MEERUT,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,MEERUT,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,MIRZAPUR,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,MIRZAPUR,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,MIRZAPUR,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,MIRZAPUR,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,MORADABAD,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,MORADABAD,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,MORADABAD,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,MORADABAD,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,MUZAFFARNAGAR,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,MUZAFFARNAGAR,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,MUZAFFARNAGAR,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,MUZAFFARNAGAR,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,PILIBHIT,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,PILIBHIT,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,PILIBHIT,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,PILIBHIT,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,PRATAPGARH,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,PRATAPGARH,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,PRATAPGARH,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,PRATAPGARH,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,RAE BARELI,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,RAE BARELI,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,RAE BARELI,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,RAE BARELI,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,RAMPUR,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,RAMPUR,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,RAMPUR,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,RAMPUR,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,SAHARANPUR,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,SAHARANPUR,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,SAHARANPUR,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,SAHARANPUR,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,SANT KABEER NAGAR,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,SANT KABEER NAGAR,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,SANT KABEER NAGAR,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,SANT KABEER NAGAR,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,SANT RAVIDAS NAGAR,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,SANT RAVIDAS NAGAR,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,SANT RAVIDAS NAGAR,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,SANT RAVIDAS NAGAR,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,SHAHJAHANPUR,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,SHAHJAHANPUR,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,SHAHJAHANPUR,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,SHAHJAHANPUR,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,SHRAVASTI,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,SHRAVASTI,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,SHRAVASTI,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,SHRAVASTI,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,SIDDHARTH NAGAR,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,SIDDHARTH NAGAR,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,SIDDHARTH NAGAR,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,SIDDHARTH NAGAR,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,SITAPUR,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,SITAPUR,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,SITAPUR,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,SITAPUR,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,SONBHADRA,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,SONBHADRA,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,SONBHADRA,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,SONBHADRA,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,SULTANPUR,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,SULTANPUR,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,SULTANPUR,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,SULTANPUR,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,UNNAO,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,UNNAO,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,UNNAO,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,UNNAO,2002,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,VARANASI,1999,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,VARANASI,2000,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,VARANASI,2001,Whole Year,Sugarcane,,,,,
-Uttar Pradesh,VARANASI,2002,Whole Year,Sugarcane,,,,,
-Uttarakhand,CHAMOLI,2000,Whole Year,Sugarcane,,,,,
-Uttarakhand,CHAMOLI,2001,Whole Year,Sugarcane,,,,,
-Uttarakhand,DEHRADUN,2000,Whole Year,Sugarcane,,,,,
-Uttarakhand,DEHRADUN,2001,Whole Year,Sugarcane,,,,,
-Uttarakhand,DEHRADUN,2002,Whole Year,Sugarcane,,,,,
-Uttarakhand,HARIDWAR,2002,Whole Year,Sugarcane,,,,,
-Uttarakhand,NAINITAL,2000,Whole Year,Sugarcane,,,,,
-Uttarakhand,NAINITAL,2001,Whole Year,Sugarcane,,,,,
-Uttarakhand,NAINITAL,2002,Whole Year,Sugarcane,,,,,
-Uttarakhand,UDAM SINGH NAGAR,2000,Whole Year,Sugarcane,,,,,
-Uttarakhand,UDAM SINGH NAGAR,2001,Whole Year,Sugarcane,,,,,
-Uttarakhand,UDAM SINGH NAGAR,2002,Whole Year,Sugarcane,,,,,
+State,District,year,Type,Crop,Average Max Temperature,Average Min Temp,Ground water ,rain,cloud cover,precipitation
+Assam,BARPETA,1999,Whole Year,Sugarcane,28.95433,19.99333,2.41,,50.9209,245.992
+Assam,BARPETA,2000,Whole Year,Sugarcane,27.58808,19.20083,2.651538462,,52.845,226.9251
+Assam,BARPETA,2001,Whole Year,Sugarcane,28.226,19.70167,2.41,,52.58,225.4203
+Assam,BARPETA,2002,Whole Year,Sugarcane,28.28667,19.18883,2.268461538,,52.6,220.9939
+Assam,CACHAR,1999,Whole Year,Sugarcane,29.54108,20.01675,1.847272727,,51.354,210.6663
+Assam,CACHAR,2000,Whole Year,Sugarcane,28.16508,19.16258,1.235,,53.68,250.9051
+Assam,CACHAR,2001,Whole Year,Sugarcane,28.93283,19.7755,1.59195122,,53.229,269.9351
+Assam,CACHAR,2002,Whole Year,Sugarcane,29.00908,19.21192,1.504871795,,53.16,292.3685
+Assam,DARRANG,1999,Whole Year,Sugarcane,28.85508,19.37708,2.725789474,,50.962,233.6089
+Assam,DARRANG,2000,Whole Year,Sugarcane,27.37042,18.49908,3.149473684,,53.348,229.812
+Assam,DARRANG,2001,Whole Year,Sugarcane,28.054,19.04192,2.817368421,,52.82,231.8738
+Assam,DARRANG,2002,Whole Year,Sugarcane,28.11892,18.52983,3.137777778,,52.879,235.7084
+Assam,DHEMAJI,1999,Whole Year,Sugarcane,29.83958,19.37708,2.752307692,,52.82,167.5203
+Assam,DHEMAJI,2000,Whole Year,Sugarcane,28.388,18.49908,2.592631579,,53.503,181.8812
+Assam,DHEMAJI,2001,Whole Year,Sugarcane,29.05183,19.04192,2.81875,,51.899,167.2466
+Assam,DHEMAJI,2002,Whole Year,Sugarcane,29.09933,18.52983,2.644666667,,52.066,186.4442
+Assam,DHUBRI,1999,Whole Year,Sugarcane,30.8455,21.19267,2.64625,,51.037,192.0604
+Assam,DHUBRI,2000,Whole Year,Sugarcane,29.731,20.5895,3.015,,51.227,171.1857
+Assam,DHUBRI,2001,Whole Year,Sugarcane,30.26875,21.007,2.662105263,,51.39,168.6328
+Assam,DHUBRI,2002,Whole Year,Sugarcane,30.29533,20.50825,2.714782609,,51.457,163.3268
+Assam,DIBRUGARH,1999,Whole Year,Sugarcane,29.13925,19.672,2.693636364,,53.109,164.8914
+Assam,DIBRUGARH,2000,Whole Year,Sugarcane,27.72033,18.82808,2.633939394,,53.638,182.3984
+Assam,DIBRUGARH,2001,Whole Year,Sugarcane,28.40592,19.31475,2.795405405,,51.913,167.5877
+Assam,DIBRUGARH,2002,Whole Year,Sugarcane,28.44817,18.86325,2.830526316,,51.945,188.2366
+Assam,GOALPARA,1999,Whole Year,Sugarcane,29.43933,20.49858,2.357037037,,51.055,233.3286
+Assam,GOALPARA,2000,Whole Year,Sugarcane,28.20058,19.812,2.055185185,,52.347,213.6558
+Assam,GOALPARA,2001,Whole Year,Sugarcane,28.75408,20.24642,2.951515152,,52.258,209.1492
+Assam,GOALPARA,2002,Whole Year,Sugarcane,28.8195,19.72992,3.567407407,,52.257,205.2553
+Assam,GOLAGHAT,1999,Whole Year,Sugarcane,28.93092,19.55358,4.6988,,52.119,159.4613
+Assam,GOLAGHAT,2000,Whole Year,Sugarcane,27.54908,18.7695,3.679565217,,53.716,178.7719
+Assam,GOLAGHAT,2001,Whole Year,Sugarcane,28.19783,19.24442,3.905,,52.992,175.955
+Assam,GOLAGHAT,2002,Whole Year,Sugarcane,28.288,18.7645,3.535217391,,51.8,190.262
+Assam,HAILAKANDI,1999,Whole Year,Sugarcane,29.72592,20.20767,2.337333333,,51.458,196.0844
+Assam,HAILAKANDI,2000,Whole Year,Sugarcane,28.35258,19.32758,1.329285714,,53.58441667,239.5863
+Assam,HAILAKANDI,2001,Whole Year,Sugarcane,29.15142,19.98442,1.434666667,,53.14858333,255.0477
+Assam,HAILAKANDI,2002,Whole Year,Sugarcane,29.21383,19.40217,1.136428571,,53.31875,277.5493
+Assam,JORHAT,1999,Whole Year,Sugarcane,29.137,19.73592,2.486153846,,52.5975,153.6532
+Assam,JORHAT,2000,Whole Year,Sugarcane,27.7635,18.94575,3.038529412,,53.79966667,174.4966
+Assam,JORHAT,2001,Whole Year,Sugarcane,28.3935,19.40067,2.142333333,,52.8835,166.1368
+Assam,JORHAT,2002,Whole Year,Sugarcane,28.47567,18.95192,1.677317073,,51.83333333,183.1783
+Assam,KAMRUP,1999,Whole Year,Sugarcane,27.64183,18.38892,2.938148148,,51.01925,282.1043
+Assam,KAMRUP,2000,Whole Year,Sugarcane,26.21475,17.63558,2.499811321,,53.54383333,281.4479
+Assam,KAMRUP,2001,Whole Year,Sugarcane,26.84642,18.08408,2.386885246,,53.06925,285.3148
+Assam,KAMRUP,2002,Whole Year,Sugarcane,26.91125,17.582,2.306129032,,53.22091667,294.3852
+Assam,KARBI ANGLONG,1999,Whole Year,Sugarcane,27.19017,20.61683,5.053563218,,51.92875,218.5673
+Assam,KARBI ANGLONG,2000,Whole Year,Sugarcane,25.82992,19.75092,4.281481481,,54.02091667,247.7023
+Assam,KARBI ANGLONG,2001,Whole Year,Sugarcane,26.43867,20.35667,4.588023256,,53.56566667,257.4818
+Assam,KARBI ANGLONG,2002,Whole Year,Sugarcane,26.53325,19.75525,4.217282609,,52.44033333,285.0821
+Assam,KARIMGANJ,1999,Whole Year,Sugarcane,30.80883,,2.520882353,,51.392,175.151
+Assam,KARIMGANJ,2000,Whole Year,Sugarcane,29.46158,,2.124375,,53.39633333,216.9247
+Assam,KARIMGANJ,2001,Whole Year,Sugarcane,30.18075,,1.723243243,,52.8905,228.4517
+Assam,KARIMGANJ,2002,Whole Year,Sugarcane,30.24933,,1.7824,,53.3145,250.6203
+Assam,KOKRAJHAR,1999,Whole Year,Sugarcane,30.09142,,14.72625,,51.26566667,219.0218
+Assam,KOKRAJHAR,2000,Whole Year,Sugarcane,28.8035,,15.33875,,51.75108333,198.4891
+Assam,KOKRAJHAR,2001,Whole Year,Sugarcane,29.45683,,15.6975,,51.78466667,194.9145
+Assam,KOKRAJHAR,2002,Whole Year,Sugarcane,29.47117,,15.0075,,51.82708333,195.869
+Assam,LAKHIMPUR,1999,Whole Year,Sugarcane,30.18808,,2.163448276,,52.29466667,166.433
+Assam,LAKHIMPUR,2000,Whole Year,Sugarcane,28.7115,,1.814464286,,53.36791667,177.5284
+Assam,LAKHIMPUR,2001,Whole Year,Sugarcane,29.38325,,2.0065,,51.99941667,166.4742
+Assam,LAKHIMPUR,2002,Whole Year,Sugarcane,29.44475,,1.95779661,,52.06208333,181.862
+Assam,NAGAON,1999,Whole Year,Sugarcane,26.14742,,3.676376812,,51.63266667,249.7192
+Assam,NAGAON,2000,Whole Year,Sugarcane,24.74017,,3.081733333,,53.89083333,274.9823
+Assam,NAGAON,2001,Whole Year,Sugarcane,25.34133,,3.178507463,,53.37691667,279.285
+Assam,NAGAON,2002,Whole Year,Sugarcane,25.409,,2.907439024,,52.6905,304.6787
+Assam,NALBARI,1999,Whole Year,Sugarcane,28.99075,,2.401428571,,50.79591667,246.9119
+Assam,NALBARI,2000,Whole Year,Sugarcane,27.56867,,1.367,,53.201,230.1999
+Assam,NALBARI,2001,Whole Year,Sugarcane,28.23408,,1.932,,52.78866667,231.1628
+Assam,NALBARI,2002,Whole Year,Sugarcane,28.2935,,0.7733333333,,52.87966667,227.1351
+Assam,SIVASAGAR,1999,Whole Year,Sugarcane,28.43683,,2.416923077,,53.13533333,159.1402
+Assam,SIVASAGAR,2000,Whole Year,Sugarcane,27.0255,,2.095897436,,53.91908333,175.0182
+Assam,SIVASAGAR,2001,Whole Year,Sugarcane,27.71908,,2.1,,52.43041667,165.7595
+Assam,SIVASAGAR,2002,Whole Year,Sugarcane,27.78483,,2.29,,51.93058333,182.7284
+Assam,SONITPUR,1999,Whole Year,Sugarcane,30.29492,,2.683692308,,51.51325,185.9299
+Assam,SONITPUR,2000,Whole Year,Sugarcane,28.79642,,2.646557377,,53.39541667,191.4382
+Assam,SONITPUR,2001,Whole Year,Sugarcane,29.47883,,2.883015873,,52.45675,184.9598
+Assam,SONITPUR,2002,Whole Year,Sugarcane,29.53983,,2.818787879,,52.39858333,192.8173
+Assam,TINSUKIA,1999,Whole Year,Sugarcane,26.71483,,3.208604651,,54.093,158.2517
+Assam,TINSUKIA,2000,Whole Year,Sugarcane,25.34508,,3.022444444,,54.43425,171.7745
+Assam,TINSUKIA,2001,Whole Year,Sugarcane,26.02617,,3.165769231,,52.60991667,158.7048
+Assam,TINSUKIA,2002,Whole Year,Sugarcane,26.09833,,3.135272727,,52.49258333,173.6548
+Bihar,ARARIA,1999,Whole Year,Sugarcane,31.4715,,2.653333333,,48.115,103.9658
+Bihar,ARARIA,2000,Whole Year,Sugarcane,30.67192,,3.107,,44.554,87.06533
+Bihar,ARARIA,2001,Whole Year,Sugarcane,31.25775,,2.665,,45.48325,88.87633
+Bihar,ARARIA,2002,Whole Year,Sugarcane,31.23358,,2.37375,,44.95683333,99.60783
+Bihar,AURANGABAD,1999,Whole Year,Sugarcane,32.3565,,3.36875,,41.98625,67.0455
+Bihar,AURANGABAD,2000,Whole Year,Sugarcane,32.195,,3.39,,35.43433333,51.50225
+Bihar,AURANGABAD,2001,Whole Year,Sugarcane,32.26842,,3.40175,,38.68991667,57.32075
+Bihar,AURANGABAD,2002,Whole Year,Sugarcane,32.715,,3.230810811,,36.539,66.66058
+Bihar,BANKA,1999,Whole Year,Sugarcane,31.2505,,3.292727273,,45.19216667,90.46708
+Bihar,BANKA,2000,Whole Year,Sugarcane,30.83742,,3.746818182,,41.2665,71.45
+Bihar,BANKA,2001,Whole Year,Sugarcane,31.13358,,3.646071429,,42.72108333,74.01233
+Bihar,BANKA,2002,Whole Year,Sugarcane,31.33617,,3.146666667,,41.79741667,78.8435
+Bihar,BEGUSARAI,1999,Whole Year,Sugarcane,31.7545,,3.333235294,,43.57341667,76.15742
+Bihar,BEGUSARAI,2000,Whole Year,Sugarcane,31.39642,,3.792857143,,38.121,62.48183
+Bihar,BEGUSARAI,2001,Whole Year,Sugarcane,31.70317,,3.887878788,,40.06683333,64.036
+Bihar,BEGUSARAI,2002,Whole Year,Sugarcane,31.82975,,3.968235294,,38.675,74.90783
+Bihar,BHAGALPUR,1999,Whole Year,Sugarcane,31.58717,,3.599761905,,45.81608333,85.18392
+Bihar,BHAGALPUR,2000,Whole Year,Sugarcane,31.05692,,3.537045455,,42.04333333,70.07558
+Bihar,BHAGALPUR,2001,Whole Year,Sugarcane,31.41933,,3.614375,,43.32933333,72.85242
+Bihar,BHAGALPUR,2002,Whole Year,Sugarcane,31.58483,,3.580666667,,42.5895,74.46308
+Bihar,BHOJPUR,1999,Whole Year,Sugarcane,32.71042,,3.883333333,,42.56725,65.9155
+Bihar,BHOJPUR,2000,Whole Year,Sugarcane,32.533,,3.994047619,,35.57191667,50.32767
+Bihar,BHOJPUR,2001,Whole Year,Sugarcane,32.66233,,3.857906977,,38.45108333,56.99475
+Bihar,BHOJPUR,2002,Whole Year,Sugarcane,32.91942,,3.962045455,,36.93133333,66.05525
+Bihar,BUXAR,1999,Whole Year,Sugarcane,32.62192,,3.767058824,,42.56658333,62.88817
+Bihar,BUXAR,2000,Whole Year,Sugarcane,32.466,,4.218,,35.35933333,48.8855
+Bihar,BUXAR,2001,Whole Year,Sugarcane,32.58192,,3.721578947,,38.50891667,56.47267
+Bihar,BUXAR,2002,Whole Year,Sugarcane,32.85517,,4.389411765,,37.05908333,64.56792
+Bihar,DARBHANGA,1999,Whole Year,Sugarcane,31.90942,,2.61452381,,44.23575,79.932
+Bihar,DARBHANGA,2000,Whole Year,Sugarcane,31.536,,2.444,,38.23958333,63.56
+Bihar,DARBHANGA,2001,Whole Year,Sugarcane,31.878,,2.24,,40.06991667,68.64308
+Bihar,DARBHANGA,2002,Whole Year,Sugarcane,31.84858,,2.869512195,,38.86583333,80.91908
+Bihar,GAYA,1999,Whole Year,Sugarcane,31.81217,,3.833571429,,42.26241667,71.99183
+Bihar,GAYA,2000,Whole Year,Sugarcane,31.59417,,4.587142857,,36.11891667,55.82717
+Bihar,GAYA,2001,Whole Year,Sugarcane,31.6955,,5.121621622,,38.88158333,59.82717
+Bihar,GAYA,2002,Whole Year,Sugarcane,32.12267,,3.913333333,,36.79041667,69.40025
+Bihar,GOPALGANJ,1999,Whole Year,Sugarcane,32.79383,,2.508039216,,44.50191667,68.6865
+Bihar,GOPALGANJ,2000,Whole Year,Sugarcane,32.53783,,2.291052632,,37.12508333,54.49592
+Bihar,GOPALGANJ,2001,Whole Year,Sugarcane,32.73758,,2.126111111,,39.88791667,62.98775
+Bihar,GOPALGANJ,2002,Whole Year,Sugarcane,32.74608,,1.977260274,,38.78341667,69.53817
+Bihar,JAMUI,1999,Whole Year,Sugarcane,30.86675,,5.587619048,,44.24083333,84.78683
+Bihar,JAMUI,2000,Whole Year,Sugarcane,30.49975,,6.175833333,,39.31583333,66.94225
+Bihar,JAMUI,2001,Whole Year,Sugarcane,30.75617,,7.022962963,,41.33883333,68.93958
+Bihar,JAMUI,2002,Whole Year,Sugarcane,31.01033,,6.883846154,,39.766,75.84525
+Bihar,JEHANABAD,1999,Whole Year,Sugarcane,32.68817,,2.709473684,,42.14575,68.49842
+Bihar,JEHANABAD,2000,Whole Year,Sugarcane,32.45233,,3.599166667,,35.59408333,53.18808
+Bihar,JEHANABAD,2001,Whole Year,Sugarcane,32.59242,,3.361428571,,38.29475,57.45842
+Bihar,JEHANABAD,2002,Whole Year,Sugarcane,32.903,,3.557368421,,36.58025,68.08783
+Bihar,KAIMUR (BHABUA),1999,Whole Year,Sugarcane,32.11558,,4.351666667,,41.96358333,
+Bihar,KAIMUR (BHABUA),2000,Whole Year,Sugarcane,31.98658,,5.146785714,,34.774,
+Bihar,KAIMUR (BHABUA),2001,Whole Year,Sugarcane,31.96775,,4.477916667,,38.37,
+Bihar,KAIMUR (BHABUA),2002,Whole Year,Sugarcane,32.42575,,4.765652174,,36.74141667,
+Bihar,KATIHAR,1999,Whole Year,Sugarcane,31.641,,4.06,,47.32116667,
+Bihar,KATIHAR,2000,Whole Year,Sugarcane,30.82075,,3.080588235,,44.4075,
+Bihar,KATIHAR,2001,Whole Year,Sugarcane,31.41083,,3.1286,,45.25716667,
+Bihar,KATIHAR,2002,Whole Year,Sugarcane,31.50008,,3.473090909,,44.86641667,
+Bihar,KHAGARIA,1999,Whole Year,Sugarcane,31.69017,,4.702857143,,44.80716667,
+Bihar,KHAGARIA,2000,Whole Year,Sugarcane,31.25583,,4.254285714,,40.04691667,
+Bihar,KHAGARIA,2001,Whole Year,Sugarcane,31.6075,,4.454814815,,41.6605,
+Bihar,KHAGARIA,2002,Whole Year,Sugarcane,31.69658,,4.91,,40.66833333,
+Bihar,KISHANGANJ,1999,Whole Year,Sugarcane,31.27575,,3.833809524,,49.18158333,
+Bihar,KISHANGANJ,2000,Whole Year,Sugarcane,30.42467,,2.997894737,,46.39616667,
+Bihar,KISHANGANJ,2001,Whole Year,Sugarcane,30.99417,,2.029285714,,47.04658333,
+Bihar,MADHEPURA,1999,Whole Year,Sugarcane,30.96792,,2.461875,,46.09008333,
+Bihar,MADHEPURA,2000,Whole Year,Sugarcane,31.65192,,2.418,,41.703,
+Bihar,MADHEPURA,2001,Whole Year,Sugarcane,31.07525,,2.761111111,,43.08908333,
+Bihar,MADHEPURA,2002,Whole Year,Sugarcane,31.53133,,2.545,,42.28691667,
+Bihar,MADHUBANI,1999,Whole Year,Sugarcane,31.78892,,2.587735849,,45.99375,
+Bihar,MADHUBANI,2000,Whole Year,Sugarcane,31.3385,,2.106792453,,40.18858333,
+Bihar,MADHUBANI,2001,Whole Year,Sugarcane,31.73275,,2.150243902,,41.85741667,
+Bihar,MADHUBANI,2002,Whole Year,Sugarcane,31.647,,3.122708333,,40.80983333,
+Bihar,MUZAFFARPUR,1999,Whole Year,Sugarcane,32.25792,,2.636,,43.49458333,
+Bihar,MUZAFFARPUR,2000,Whole Year,Sugarcane,31.94925,,2.441428571,,36.69466667,
+Bihar,MUZAFFARPUR,2001,Whole Year,Sugarcane,32.209,,2.666133333,,38.8965,
+Bihar,MUZAFFARPUR,2002,Whole Year,Sugarcane,32.2305,,3.111827957,,37.53891667,
+Bihar,NALANDA,1999,Whole Year,Sugarcane,32.41142,,2.377179487,,42.3825,
+Bihar,NALANDA,2000,Whole Year,Sugarcane,32.08775,,2.555357143,,36.19458333,
+Bihar,NALANDA,2001,Whole Year,Sugarcane,32.32242,,3.117222222,,38.575,
+Bihar,NALANDA,2002,Whole Year,Sugarcane,32.57775,,2.56125,,36.82833333,
+Bihar,NAWADA,1999,Whole Year,Sugarcane,31.25725,,2.949285714,,42.75466667,
+Bihar,NAWADA,2000,Whole Year,Sugarcane,30.95725,,3.163488372,,37.0085,
+Bihar,NAWADA,2001,Whole Year,Sugarcane,31.12758,,3.4825,,39.35266667,
+Bihar,NAWADA,2002,Whole Year,Sugarcane,31.47667,,3.436304348,,37.42783333,
+Bihar,PASHCHIM CHAMPARAN,1999,Whole Year,Sugarcane,32.66317,,3.171111111,,46.60358333,
+Bihar,PASHCHIM CHAMPARAN,2000,Whole Year,Sugarcane,32.26642,,2.791132075,,39.75975,
+Bihar,PASHCHIM CHAMPARAN,2001,Whole Year,Sugarcane,32.51467,,2.397826087,,41.8755,
+Bihar,PASHCHIM CHAMPARAN,2002,Whole Year,Sugarcane,32.39625,,2.106086957,,41.19816667,
+Bihar,PATNA,1999,Whole Year,Sugarcane,32.51775,,3.652291667,,42.41425,
+Bihar,PATNA,2000,Whole Year,Sugarcane,32.25225,,4.0975,,35.94758333,
+Bihar,PATNA,2001,Whole Year,Sugarcane,32.4475,,4.311857143,,38.43466667,
+Bihar,PATNA,2002,Whole Year,Sugarcane,32.68267,,4.084262295,,36.793,
+Bihar,PURBI CHAMPARAN,1999,Whole Year,Sugarcane,32.46175,,2.641,,45.65233333,
+Bihar,PURBI CHAMPARAN,2000,Whole Year,Sugarcane,32.14817,,2.9290625,,38.27841667,
+Bihar,PURBI CHAMPARAN,2001,Whole Year,Sugarcane,32.40567,,2.43,,40.62866667,
+Bihar,PURBI CHAMPARAN,2002,Whole Year,Sugarcane,32.33267,,2.306666667,,39.53325,
+Bihar,PURNIA,1999,Whole Year,Sugarcane,31.673,,2.92,,47.31925,
+Bihar,PURNIA,2000,Whole Year,Sugarcane,30.89208,,2.977857143,,44.03691667,
+Bihar,PURNIA,2001,Whole Year,Sugarcane,31.46758,,2.263157895,,44.99291667,
+Bihar,PURNIA,2002,Whole Year,Sugarcane,31.53683,,3.102857143,,44.5065,
+Bihar,ROHTAS,1999,Whole Year,Sugarcane,32.27233,,3.796,,42.112,
+Bihar,ROHTAS,2000,Whole Year,Sugarcane,32.13475,,4.5925,,35.17275,
+Bihar,ROHTAS,2001,Whole Year,Sugarcane,32.15208,,4.224782609,,38.53341667,
+Bihar,ROHTAS,2002,Whole Year,Sugarcane,32.58883,,4.53893617,,36.759,
+Bihar,SAHARSA,1999,Whole Year,Sugarcane,31.74117,,,,45.17425,
+Bihar,SAHARSA,2000,Whole Year,Sugarcane,31.24458,,,,40.3725,
+Bihar,SAHARSA,2001,Whole Year,Sugarcane,31.65433,,,,41.94033333,
+Bihar,SAHARSA,2002,Whole Year,Sugarcane,31.69867,,,,41.00066667,
+Bihar,SAMASTIPUR,1999,Whole Year,Sugarcane,32.15917,,,,42.54133333,
+Bihar,SAMASTIPUR,2000,Whole Year,Sugarcane,31.83167,,,,36.56458333,
+Bihar,SAMASTIPUR,2001,Whole Year,Sugarcane,32.13067,,,,38.59516667,
+Bihar,SAMASTIPUR,2002,Whole Year,Sugarcane,32.20808,,,,37.14733333,
+Bihar,SARAN,1999,Whole Year,Sugarcane,32.70142,,,,43.10108333,
+Bihar,SARAN,2000,Whole Year,Sugarcane,32.48833,,,,35.97366667,
+Bihar,SARAN,2001,Whole Year,Sugarcane,32.68158,,,,38.66033333,
+Bihar,SARAN,2002,Whole Year,Sugarcane,32.80042,,,,37.22391667,
+Bihar,SHEIKHPURA,1999,Whole Year,Sugarcane,32.10958,,,,42.71141667,
+Bihar,SHEIKHPURA,2000,Whole Year,Sugarcane,31.76083,,,,36.78133333,
+Bihar,SHEIKHPURA,2001,Whole Year,Sugarcane,32.02458,,,,38.95958333,
+Bihar,SHEIKHPURA,2002,Whole Year,Sugarcane,32.26183,,,,37.26133333,
+Bihar,SHEOHAR,1999,Whole Year,Sugarcane,32.28942,,,,44.79625,
+Bihar,SHEOHAR,2000,Whole Year,Sugarcane,31.96967,,,,37.66116667,
+Bihar,SHEOHAR,2001,Whole Year,Sugarcane,32.23525,,,,39.81191667,
+Bihar,SHEOHAR,2002,Whole Year,Sugarcane,32.19758,,,,38.61891667,
+Bihar,SITAMARHI,1999,Whole Year,Sugarcane,32.04008,,,,45.94875,
+Bihar,SITAMARHI,2000,Whole Year,Sugarcane,31.68242,,,,39.07766667,
+Bihar,SITAMARHI,2001,Whole Year,Sugarcane,32.01608,,,,40.96766667,
+Bihar,SITAMARHI,2002,Whole Year,Sugarcane,31.888,,,,39.84916667,
+Bihar,SIWAN,1999,Whole Year,Sugarcane,32.87058,,,,43.98266667,
+Bihar,SIWAN,2000,Whole Year,Sugarcane,32.6435,,,,36.48733333,
+Bihar,SIWAN,2001,Whole Year,Sugarcane,32.81167,,,,39.37991667,
+Bihar,SIWAN,2002,Whole Year,Sugarcane,32.87167,,,,38.192,
+Bihar,SUPAUL,1999,Whole Year,Sugarcane,31.6215,,,,47.14175,
+Bihar,VAISHALI,1999,Whole Year,Sugarcane,32.47708,,,,42.07383333,
+Bihar,VAISHALI,2000,Whole Year,Sugarcane,32.23867,,,,35.50866667,
+Bihar,VAISHALI,2001,Whole Year,Sugarcane,32.4385,,,,37.83408333,
+Bihar,VAISHALI,2002,Whole Year,Sugarcane,32.5785,,,,36.27633333,
+Chhattisgarh,BASTAR,2000,Whole Year,Sugarcane,32.57717,,,,37.34558333,
+Chhattisgarh,BASTAR,2001,Whole Year,Sugarcane,32.56233,,,,41.16683333,
+Chhattisgarh,BASTAR,2002,Whole Year,Sugarcane,32.91033,,,,38.43958333,
+Chhattisgarh,BILASPUR,2000,Whole Year,Sugarcane,31.68183,,,,33.0355,
+Chhattisgarh,BILASPUR,2001,Whole Year,Sugarcane,31.71842,,,,31.75033333,
+Chhattisgarh,BILASPUR,2002,Whole Year,Sugarcane,31.88042,,,,34.04558333,
+Chhattisgarh,DANTEWADA,2000,Whole Year,Sugarcane,33.454,,,,36.53483333,
+Chhattisgarh,DANTEWADA,2001,Whole Year,Sugarcane,33.48717,,,,40.4125,
+Chhattisgarh,DANTEWADA,2002,Whole Year,Sugarcane,33.73425,,,,38.04083333,
+Chhattisgarh,DHAMTARI,2000,Whole Year,Sugarcane,31.80533,,,,37.75558333,
+Chhattisgarh,DHAMTARI,2002,Whole Year,Sugarcane,31.81625,,,,38.27491667,
+Chhattisgarh,DURG,2000,Whole Year,Sugarcane,32.27633,,,,36.86116667,
+Chhattisgarh,DURG,2001,Whole Year,Sugarcane,31.71842,,,,40.64258333,
+Chhattisgarh,DURG,2002,Whole Year,Sugarcane,31.88042,,,,37.88508333,
+Chhattisgarh,JANJGIR-CHAMPA,2000,Whole Year,Sugarcane,32.595,,,,36.86908333,
+Chhattisgarh,JANJGIR-CHAMPA,2001,Whole Year,Sugarcane,32.6005,,,,41.05891667,
+Chhattisgarh,JANJGIR-CHAMPA,2002,Whole Year,Sugarcane,33.14383,,,,37.887,
+Chhattisgarh,JASHPUR,2000,Whole Year,Sugarcane,31.54717,,,,36.79816667,
+Chhattisgarh,JASHPUR,2001,Whole Year,Sugarcane,31.53767,,,,41.07966667,
+Chhattisgarh,JASHPUR,2002,Whole Year,Sugarcane,32.08125,,,,37.81083333,
+Chhattisgarh,KORBA,2001,Whole Year,Sugarcane,32.36067,,,,40.37025,
+Chhattisgarh,KORBA,2002,Whole Year,Sugarcane,32.447,,,,37.89383333,
+Chhattisgarh,KOREA,2000,Whole Year,Sugarcane,30.66217,,,,36.06741667,
+Chhattisgarh,KOREA,2001,Whole Year,Sugarcane,31.21908,,,,40.37025,
+Chhattisgarh,MAHASAMUND,2000,Whole Year,Sugarcane,32.25283,,,,37.72383333,
+Chhattisgarh,MAHASAMUND,2001,Whole Year,Sugarcane,32.22392,,,,41.49075,
+Chhattisgarh,MAHASAMUND,2002,Whole Year,Sugarcane,32.72125,,,,37.8635,
+Chhattisgarh,RAIGARH,2000,Whole Year,Sugarcane,32.42875,,,,36.95558333,
+Chhattisgarh,RAIGARH,2001,Whole Year,Sugarcane,32.39325,,,,41.3625,
+Chhattisgarh,RAIGARH,2002,Whole Year,Sugarcane,32.94775,,,,37.88275,
+Chhattisgarh,RAIPUR,2000,Whole Year,Sugarcane,32.31558,,,,37.44416667,
+Chhattisgarh,RAIPUR,2001,Whole Year,Sugarcane,32.3305,,,,41.23025,
+Chhattisgarh,RAIPUR,2002,Whole Year,Sugarcane,32.83008,,,,38.00941667,
+Chhattisgarh,RAJNANDGAON,2000,Whole Year,Sugarcane,33.15642,,,,36.78175,
+Chhattisgarh,RAJNANDGAON,2001,Whole Year,Sugarcane,33.31033,,,,40.51533333,
+Chhattisgarh,RAJNANDGAON,2002,Whole Year,Sugarcane,33.76033,,,,38.05,
+Chhattisgarh,SURGUJA,2000,Whole Year,Sugarcane,30.93892,,,,35.84266667,
+Chhattisgarh,SURGUJA,2001,Whole Year,Sugarcane,30.9845,,,,40.33791667,
+Chhattisgarh,SURGUJA,2002,Whole Year,Sugarcane,31.53692,,,,37.75958333,
+Gujarat,AHMADABAD,1999,Whole Year,Sugarcane,33.58892,,,,30.27208333,
+Gujarat,AHMADABAD,2000,Whole Year,Sugarcane,33.839,,,,27.8775,
+Gujarat,AHMADABAD,2001,Whole Year,Sugarcane,33.60867,,,,31.25841667,
+Gujarat,AHMADABAD,2002,Whole Year,Sugarcane,34.08958,,,,32.61216667,
+Gujarat,AMRELI,1999,Whole Year,Sugarcane,26.057,,,,26.99566667,
+Gujarat,AMRELI,2000,Whole Year,Sugarcane,26.05417,,,,25.63558333,
+Gujarat,AMRELI,2002,Whole Year,Sugarcane,26.39392,,,,28.31733333,
+Gujarat,BANAS KANTHA,1999,Whole Year,Sugarcane,34.43717,,,,25.79516667,
+Gujarat,BANAS KANTHA,2000,Whole Year,Sugarcane,34.74767,,,,23.74408333,
+Gujarat,BHARUCH,1999,Whole Year,Sugarcane,32.48783,,,,31.95558333,
+Gujarat,BHARUCH,2000,Whole Year,Sugarcane,32.7975,,,,28.828,
+Gujarat,BHARUCH,2001,Whole Year,Sugarcane,32.544,,,,32.02416667,
+Gujarat,BHARUCH,2002,Whole Year,Sugarcane,32.99867,,,,32.85525,
+Gujarat,BHAVNAGAR,1999,Whole Year,Sugarcane,32.03575,,,,32.49308333,
+Gujarat,BHAVNAGAR,2000,Whole Year,Sugarcane,32.14325,,,,30.57966667,
+Gujarat,BHAVNAGAR,2001,Whole Year,Sugarcane,32.09275,,,,33.35466667,
+Gujarat,BHAVNAGAR,2002,Whole Year,Sugarcane,32.51758,,,,34.35933333,
+Gujarat,KACHCHH,1999,Whole Year,Sugarcane,27.64083,,,,22.51491667,
+Gujarat,KACHCHH,2001,Whole Year,Sugarcane,27.65417,,,,23.00391667,
+Gujarat,KACHCHH,2002,Whole Year,Sugarcane,27.79175,,,,23.84525,
+Gujarat,KHEDA,1999,Whole Year,Sugarcane,34.44417,,,,30.64183333,
+Gujarat,KHEDA,2000,Whole Year,Sugarcane,34.13033,,,,27.644,
+Gujarat,KHEDA,2001,Whole Year,Sugarcane,34.62,,,,31.33891667,
+Gujarat,RAJKOT,1999,Whole Year,Sugarcane,32.2455,,,,30.68325,
+Gujarat,RAJKOT,2000,Whole Year,Sugarcane,32.2925,,,,29.02066667,
+Gujarat,RAJKOT,2001,Whole Year,Sugarcane,32.2235,,,,31.31925,
+Gujarat,RAJKOT,2002,Whole Year,Sugarcane,32.50142,,,,32.398,
+Gujarat,SABAR KANTHA,1999,Whole Year,Sugarcane,34.16492,,,,28.90633333,
+Gujarat,SABAR KANTHA,2000,Whole Year,Sugarcane,34.4655,,,,26.38141667,
+Gujarat,SABAR KANTHA,2001,Whole Year,Sugarcane,34.09825,,,,29.97675,
+Gujarat,SABAR KANTHA,2002,Whole Year,Sugarcane,34.67517,,,,31.45325,
+Gujarat,SURAT,1999,Whole Year,Sugarcane,25.6695,,,,26.78525,
+Gujarat,SURAT,2000,Whole Year,Sugarcane,25.86908,,,,24.11241667,
+Gujarat,SURAT,2001,Whole Year,Sugarcane,25.70825,,,,26.40241667,
+Gujarat,SURAT,2002,Whole Year,Sugarcane,26.02508,,,,26.7525,
+Gujarat,SURENDRANAGAR,1999,Whole Year,Sugarcane,33.2885,,,,29.81091667,
+Gujarat,SURENDRANAGAR,2000,Whole Year,Sugarcane,33.47325,,,,27.752,
+Gujarat,SURENDRANAGAR,2001,Whole Year,Sugarcane,33.2765,,,,30.69741667,
+Gujarat,SURENDRANAGAR,2002,Whole Year,Sugarcane,33.66983,,,,32.034,
+Gujarat,VADODARA,1999,Whole Year,Sugarcane,33.93208,,,,32.40758333,
+Gujarat,VADODARA,2000,Whole Year,Sugarcane,34.20717,,,,29.15241667,
+Gujarat,VADODARA,2001,Whole Year,Sugarcane,33.9075,,,,32.63533333,
+Gujarat,VADODARA,2002,Whole Year,Sugarcane,34.35475,,,,33.37775,
+Haryana,AMBALA,1999,Whole Year,Sugarcane,32.38508,,,,30.18316667,
+Haryana,AMBALA,2000,Whole Year,Sugarcane,31.76225,,,,32.68716667,
+Haryana,AMBALA,2001,Whole Year,Sugarcane,31.84858,,,,31.78608333,
+Haryana,AMBALA,2002,Whole Year,Sugarcane,32.03925,,,,33.87025,
+Haryana,BHIWANI,1999,Whole Year,Sugarcane,32.41467,,,,26.68158333,
+Haryana,BHIWANI,2000,Whole Year,Sugarcane,32.18583,,,,28.86291667,
+Haryana,BHIWANI,2001,Whole Year,Sugarcane,32.11033,,,,29.10033333,
+Haryana,BHIWANI,2002,Whole Year,Sugarcane,32.53508,,,,30.189,
+Haryana,FARIDABAD,1999,Whole Year,Sugarcane,32.27533,,,,30.62258333,
+Haryana,FARIDABAD,2000,Whole Year,Sugarcane,32.00633,,,,33.06316667,
+Haryana,FARIDABAD,2001,Whole Year,Sugarcane,31.99967,,,,33.05458333,
+Haryana,FARIDABAD,2002,Whole Year,Sugarcane,32.50475,,,,34.60291667,
+Haryana,FATEHABAD,1999,Whole Year,Sugarcane,32.81033,,,,24.64633333,
+Haryana,FATEHABAD,2000,Whole Year,Sugarcane,32.55792,,,,27.17566667,
+Haryana,FATEHABAD,2001,Whole Year,Sugarcane,32.52817,,,,26.91591667,
+Haryana,FATEHABAD,2002,Whole Year,Sugarcane,32.88175,,,,27.85191667,
+Haryana,GURGAON,1999,Whole Year,Sugarcane,32.07175,,,,30.06691667,
+Haryana,GURGAON,2000,Whole Year,Sugarcane,31.837,,,,32.4225,
+Haryana,GURGAON,2001,Whole Year,Sugarcane,31.78767,,,,32.54141667,
+Haryana,GURGAON,2002,Whole Year,Sugarcane,32.306,,,,34.01358333,
+Haryana,HISAR,1999,Whole Year,Sugarcane,32.66025,,,,25.6485,
+Haryana,HISAR,2000,Whole Year,Sugarcane,32.41625,,,,28.05883333,
+Haryana,HISAR,2001,Whole Year,Sugarcane,32.37892,,,,27.97641667,
+Haryana,HISAR,2002,Whole Year,Sugarcane,32.74758,,,,28.99525,
+Haryana,JHAJJAR,1999,Whole Year,Sugarcane,32.08708,,,,28.85675,
+Haryana,JHAJJAR,2000,Whole Year,Sugarcane,31.82533,,,,31.32658333,
+Haryana,JHAJJAR,2001,Whole Year,Sugarcane,31.7925,,,,31.23591667,
+Haryana,JHAJJAR,2002,Whole Year,Sugarcane,32.21292,,,,32.62233333,
+Haryana,JIND,1999,Whole Year,Sugarcane,32.33933,,,,26.9115,
+Haryana,JIND,2000,Whole Year,Sugarcane,32.025,,,,29.66825,
+Haryana,JIND,2001,Whole Year,Sugarcane,32.038,,,,29.18741667,
+Haryana,JIND,2002,Whole Year,Sugarcane,32.39833,,,,30.40633333,
+Haryana,KAITHAL,1999,Whole Year,Sugarcane,32.41283,,,,27.2675,
+Haryana,KAITHAL,2000,Whole Year,Sugarcane,32.0205,,,,30.08366667,
+Haryana,KAITHAL,2001,Whole Year,Sugarcane,32.06742,,,,29.37775,
+Haryana,KAITHAL,2002,Whole Year,Sugarcane,32.37217,,,,30.7455,
+Haryana,KARNAL,1999,Whole Year,Sugarcane,32.24792,,,,29.44825,
+Haryana,KARNAL,2000,Whole Year,Sugarcane,31.77642,,,,32.10266667,
+Haryana,KARNAL,2001,Whole Year,Sugarcane,31.84525,,,,31.41091667,
+Haryana,KARNAL,2002,Whole Year,Sugarcane,32.10342,,,,33.17108333,
+Haryana,KURUKSHETRA,1999,Whole Year,Sugarcane,32.35342,,,,29.37766667,
+Haryana,KURUKSHETRA,2000,Whole Year,Sugarcane,31.80967,,,,31.98591667,
+Haryana,KURUKSHETRA,2001,Whole Year,Sugarcane,31.886,,,,31.15691667,
+Haryana,KURUKSHETRA,2002,Whole Year,Sugarcane,32.10917,,,,33.03075,
+Haryana,MAHENDRAGARH,1999,Whole Year,Sugarcane,31.8985,,,,27.83766667,
+Haryana,MAHENDRAGARH,2000,Whole Year,Sugarcane,31.7045,,,,29.883,
+Haryana,MAHENDRAGARH,2001,Whole Year,Sugarcane,31.58242,,,,30.37216667,
+Haryana,PANCHKULA,1999,Whole Year,Sugarcane,32.62533,,,,30.41366667,
+Haryana,PANCHKULA,2000,Whole Year,Sugarcane,32,,,,32.92516667,
+Haryana,PANCHKULA,2001,Whole Year,Sugarcane,32.08883,,,,31.8725,
+Haryana,PANCHKULA,2002,Whole Year,Sugarcane,32.23833,,,,34.04675,
+Haryana,PANIPAT,1999,Whole Year,Sugarcane,32.161,,,,29.04791667,
+Haryana,PANIPAT,2000,Whole Year,Sugarcane,31.7835,,,,31.82483333,
+Haryana,PANIPAT,2001,Whole Year,Sugarcane,31.82858,,,,31.24533333,
+Haryana,PANIPAT,2002,Whole Year,Sugarcane,32.14567,,,,32.79791667,
+Haryana,REWARI,1999,Whole Year,Sugarcane,31.86592,,,,28.67725,
+Haryana,REWARI,2000,Whole Year,Sugarcane,31.64383,,,,30.92458333,
+Haryana,REWARI,2001,Whole Year,Sugarcane,31.558,,,,31.18508333,
+Haryana,REWARI,2002,Whole Year,Sugarcane,32.06417,,,,32.50666667,
+Haryana,ROHTAK,1999,Whole Year,Sugarcane,32.19825,,,,28.04808333,
+Haryana,ROHTAK,2000,Whole Year,Sugarcane,31.929,,,,30.52233333,
+Haryana,ROHTAK,2001,Whole Year,Sugarcane,31.9005,,,,30.417,
+Haryana,ROHTAK,2002,Whole Year,Sugarcane,32.308,,,,31.70975,
+Haryana,SIRSA,1999,Whole Year,Sugarcane,33.193,,,,23.45225,
+Haryana,SIRSA,2000,Whole Year,Sugarcane,33.00675,,,,25.49216667,
+Haryana,SIRSA,2001,Whole Year,Sugarcane,32.90425,,,,25.55283333,
+Haryana,SIRSA,2002,Whole Year,Sugarcane,33.26633,,,,26.31166667,
+Haryana,SONIPAT,1999,Whole Year,Sugarcane,32.07167,,,,29.19916667,
+Haryana,SONIPAT,2000,Whole Year,Sugarcane,31.74508,,,,31.9355,
+Haryana,SONIPAT,2001,Whole Year,Sugarcane,31.76575,,,,31.49391667,
+Haryana,SONIPAT,2002,Whole Year,Sugarcane,32.12425,,,,32.98008333,
+Haryana,YAMUNANAGAR,1999,Whole Year,Sugarcane,32.38308,,,,31.27,
+Haryana,YAMUNANAGAR,2000,Whole Year,Sugarcane,31.67725,,,,33.61783333,
+Haryana,YAMUNANAGAR,2001,Whole Year,Sugarcane,31.777,,,,32.76366667,
+Haryana,YAMUNANAGAR,2002,Whole Year,Sugarcane,31.96042,,,,35.03741667,
+Himachal Pradesh,HAMIRPUR,1999,Whole Year,Sugarcane,31.03133,,,,30.93775,
+Himachal Pradesh,HAMIRPUR,2000,Whole Year,Sugarcane,30.5245,,,,33.77866667,
+Himachal Pradesh,HAMIRPUR,2001,Whole Year,Sugarcane,30.57217,,,,32.28158333,
+Himachal Pradesh,HAMIRPUR,2002,Whole Year,Sugarcane,30.70308,,,,34.81258333,
+Himachal Pradesh,KANGRA,1999,Whole Year,Sugarcane,30.02192,,,,31.11858333,
+Himachal Pradesh,KANGRA,2000,Whole Year,Sugarcane,29.59258,,,,34.22716667,
+Himachal Pradesh,KANGRA,2001,Whole Year,Sugarcane,29.61767,,,,32.56108333,
+Himachal Pradesh,KANGRA,2002,Whole Year,Sugarcane,29.71342,,,,34.91658333,
+Himachal Pradesh,MANDI,2000,Whole Year,Sugarcane,29.15883,,,,35.64091667,
+Himachal Pradesh,MANDI,2001,Whole Year,Sugarcane,29.22892,,,,34.22183333,
+Himachal Pradesh,MANDI,2002,Whole Year,Sugarcane,29.32425,,,,36.97816667,
+Himachal Pradesh,SIRMAUR,1999,Whole Year,Sugarcane,32.09233,,,,32.57608333,
+Himachal Pradesh,SIRMAUR,2000,Whole Year,Sugarcane,31.40367,,,,34.88641667,
+Himachal Pradesh,SIRMAUR,2001,Whole Year,Sugarcane,31.50108,,,,33.89666667,
+Himachal Pradesh,SIRMAUR,2002,Whole Year,Sugarcane,31.62892,,,,36.3975,
+Himachal Pradesh,SOLAN,1999,Whole Year,Sugarcane,32.34758,,,,30.7585,
+Himachal Pradesh,SOLAN,2000,Whole Year,Sugarcane,31.75708,,,,33.30891667,
+Himachal Pradesh,SOLAN,2001,Whole Year,Sugarcane,31.8165,,,,32.15283333,
+Himachal Pradesh,SOLAN,2002,Whole Year,Sugarcane,31.96967,,,,34.44183333,
+Himachal Pradesh,UNA,1999,Whole Year,Sugarcane,31.86667,,,,29.12991667,
+Himachal Pradesh,UNA,2000,Whole Year,Sugarcane,31.37517,,,,32.11383333,
+Himachal Pradesh,UNA,2001,Whole Year,Sugarcane,31.40983,,,,30.62933333,
+Himachal Pradesh,UNA,2002,Whole Year,Sugarcane,31.57475,,,,32.69241667,
+Jammu and Kashmir,JAMMU,1999,Whole Year,Sugarcane,31.29717,,,,27.45125,
+Jammu and Kashmir,JAMMU,2000,Whole Year,Sugarcane,31.03508,,,,29.94275,
+Jammu and Kashmir,JAMMU,2001,Whole Year,Sugarcane,31.01175,,,,28.83,
+Jammu and Kashmir,JAMMU,2002,Whole Year,Sugarcane,31.10417,,,,30.38975,
+Jammu and Kashmir,KATHUA,1999,Whole Year,Sugarcane,30.51275,,,,28.97733333,
+Jammu and Kashmir,KATHUA,2000,Whole Year,Sugarcane,30.22725,,,,32.46383333,
+Jammu and Kashmir,KATHUA,2001,Whole Year,Sugarcane,30.21017,,,,30.67758333,
+Jammu and Kashmir,KATHUA,2002,Whole Year,Sugarcane,30.32517,,,,32.66366667,
+Jammu and Kashmir,RAJAURI,1999,Whole Year,Sugarcane,31.36758,,,,29.58875,
+Jammu and Kashmir,RAJAURI,2000,Whole Year,Sugarcane,31.155,,,,31.04458333,
+Jammu and Kashmir,RAJAURI,2001,Whole Year,Sugarcane,31.08742,,,,30.40491667,
+Jammu and Kashmir,RAJAURI,2002,Whole Year,Sugarcane,31.03967,,,,32.07758333,
+Jammu and Kashmir,UDHAMPUR,1999,Whole Year,Sugarcane,30.46158,,,,29.29816667,
+Jammu and Kashmir,UDHAMPUR,2000,Whole Year,Sugarcane,30.23533,,,,31.80875,
+Jammu and Kashmir,UDHAMPUR,2001,Whole Year,Sugarcane,30.17325,,,,30.54858333,
+Jammu and Kashmir,UDHAMPUR,2002,Whole Year,Sugarcane,30.26517,,,,32.45666667,
+Mizoram,AIZAWL,1999,Whole Year,Sugarcane,29.981,,,,52.14516667,
+Mizoram,AIZAWL,2000,Whole Year,Sugarcane,28.68225,,,,53.66466667,
+Mizoram,AIZAWL,2001,Whole Year,Sugarcane,29.51725,,,,52.981,
+Mizoram,AIZAWL,2002,Whole Year,Sugarcane,29.62775,,,,53.62058333,
+Mizoram,CHAMPHAI,2000,Whole Year,Sugarcane,26.52158,,,,54.40783333,
+Mizoram,CHAMPHAI,2001,Whole Year,Sugarcane,27.33192,,,,53.7245,
+Mizoram,CHAMPHAI,2002,Whole Year,Sugarcane,27.4235,,,,54.11208333,
+Mizoram,KOLASIB,1999,Whole Year,Sugarcane,29.45733,,,,,
+Mizoram,KOLASIB,2000,Whole Year,Sugarcane,28.0765,,,,,
+Mizoram,KOLASIB,2001,Whole Year,Sugarcane,28.93483,,,,,
+Mizoram,KOLASIB,2002,Whole Year,Sugarcane,28.99517,,,,,
+Mizoram,LUNGLEI,1999,Whole Year,Sugarcane,30.12717,,,,,
+Mizoram,LUNGLEI,2000,Whole Year,Sugarcane,28.94033,,,,,
+Mizoram,LUNGLEI,2001,Whole Year,Sugarcane,29.73517,,,,,
+Mizoram,LUNGLEI,2002,Whole Year,Sugarcane,29.8955,,,,,
+Nagaland,KOHIMA,1999,Whole Year,Sugarcane,25.84633,,,,,
+Nagaland,KOHIMA,2000,Whole Year,Sugarcane,24.47958,,,,,
+Nagaland,KOHIMA,2001,Whole Year,Sugarcane,25.24392,,,,,
+Nagaland,KOHIMA,2002,Whole Year,Sugarcane,25.38092,,,,,
+Nagaland,MOKOKCHUNG,2000,Whole Year,Sugarcane,25.18325,,,,,
+Nagaland,MOKOKCHUNG,2001,Whole Year,Sugarcane,25.878,,,,,
+Nagaland,MOKOKCHUNG,2002,Whole Year,Sugarcane,26.00883,,,,,
+Nagaland,MON,2000,Whole Year,Sugarcane,24.40717,,,,,
+Nagaland,MON,2001,Whole Year,Sugarcane,25.1175,,,,,
+Nagaland,MON,2002,Whole Year,Sugarcane,25.21433,,,,,
+Nagaland,WOKHA,1999,Whole Year,Sugarcane,27.36833,,,,,
+Nagaland,WOKHA,2000,Whole Year,Sugarcane,26.026,,,,,
+Nagaland,WOKHA,2001,Whole Year,Sugarcane,26.71292,,,,,
+Nagaland,WOKHA,2002,Whole Year,Sugarcane,26.86158,,,,,
+Nagaland,ZUNHEBOTO,1999,Whole Year,Sugarcane,24.41883,,,,,
+Nagaland,ZUNHEBOTO,2000,Whole Year,Sugarcane,23.10475,,,,,
+Nagaland,ZUNHEBOTO,2001,Whole Year,Sugarcane,23.83325,,,,,
+Nagaland,ZUNHEBOTO,2002,Whole Year,Sugarcane,23.98967,,,,,
+Odisha,ANUGUL,2000,Whole Year,Sugarcane,30.3845,,,,,
+Odisha,ANUGUL,2001,Whole Year,Sugarcane,30.40092,,,,,
+Odisha,ANUGUL,2002,Whole Year,Sugarcane,30.86167,,,,,
+Odisha,BALANGIR,2000,Whole Year,Sugarcane,31.70367,,,,,
+Odisha,BALANGIR,2001,Whole Year,Sugarcane,31.60325,,,,,
+Odisha,BALANGIR,2002,Whole Year,Sugarcane,32.09375,,,,,
+Odisha,BALESHWAR,2000,Whole Year,Sugarcane,31.963,,,,,
+Odisha,BALESHWAR,2001,Whole Year,Sugarcane,32.15075,,,,,
+Odisha,BALESHWAR,2002,Whole Year,Sugarcane,32.518,,,,,
+Odisha,BARGARH,2000,Whole Year,Sugarcane,32.00358,,,,,
+Odisha,BARGARH,2001,Whole Year,Sugarcane,31.94383,,,,,
+Odisha,BARGARH,2002,Whole Year,Sugarcane,32.44417,,,,,
+Odisha,BHADRAK,2000,Whole Year,Sugarcane,32.00358,,,,,
+Odisha,BHADRAK,2001,Whole Year,Sugarcane,31.94383,,,,,
+Odisha,BHADRAK,2002,Whole Year,Sugarcane,32.44417,,,,,
+Odisha,BOUDH,2000,Whole Year,Sugarcane,30.59042,,,,,
+Odisha,BOUDH,2001,Whole Year,Sugarcane,30.55692,,,,,
+Odisha,BOUDH,2002,Whole Year,Sugarcane,31.03633,,,,,
+Odisha,CUTTACK,2000,Whole Year,Sugarcane,31.05417,,,,,
+Odisha,CUTTACK,2001,Whole Year,Sugarcane,31.22083,,,,,
+Odisha,CUTTACK,2002,Whole Year,Sugarcane,31.52208,,,,,
+Odisha,DHENKANAL,2000,Whole Year,Sugarcane,31.352,,,,,
+Odisha,DHENKANAL,2001,Whole Year,Sugarcane,31.42917,,,,,
+Odisha,DHENKANAL,2002,Whole Year,Sugarcane,31.82375,,,,,
+Odisha,GAJAPATI,2000,Whole Year,Sugarcane,31.0375,,,,,
+Odisha,GAJAPATI,2001,Whole Year,Sugarcane,31.16508,,,,,
+Odisha,GAJAPATI,2002,Whole Year,Sugarcane,31.41342,,,,,
+Odisha,GANJAM,2000,Whole Year,Sugarcane,29.855,,,,,
+Odisha,GANJAM,2001,Whole Year,Sugarcane,29.9795,,,,,
+Odisha,GANJAM,2002,Whole Year,Sugarcane,30.26333,,,,,
+Odisha,JAGATSINGHAPUR,2000,Whole Year,Sugarcane,,,,,,
+Odisha,JAGATSINGHAPUR,2001,Whole Year,Sugarcane,,,,,,
+Odisha,JAGATSINGHAPUR,2002,Whole Year,Sugarcane,,,,,,
+Odisha,JAJAPUR,1999,Winter,Sugarcane,,,,,,
+Odisha,JAJAPUR,2000,Whole Year,Sugarcane,,,,,,
+Odisha,JAJAPUR,2001,Whole Year,Sugarcane,,,,,,
+Odisha,JAJAPUR,2002,Whole Year,Sugarcane,,,,,,
+Odisha,JHARSUGUDA,1999,Winter,Sugarcane,,,,,,
+Odisha,JHARSUGUDA,2000,Whole Year,Sugarcane,,,,,,
+Odisha,JHARSUGUDA,2001,Whole Year,Sugarcane,,,,,,
+Odisha,JHARSUGUDA,2002,Whole Year,Sugarcane,,,,,,
+Odisha,KALAHANDI,1999,Winter,Sugarcane,,,,,,
+Odisha,KALAHANDI,2000,Whole Year,Sugarcane,,,,,,
+Odisha,KALAHANDI,2001,Whole Year,Sugarcane,,,,,,
+Odisha,KALAHANDI,2002,Whole Year,Sugarcane,,,,,,
+Odisha,KANDHAMAL,1999,Winter,Sugarcane,,,,,,
+Odisha,KANDHAMAL,2001,Whole Year,Sugarcane,,,,,,
+Odisha,KENDRAPARA,1999,Winter,Sugarcane,,,,,,
+Odisha,KENDRAPARA,2000,Whole Year,Sugarcane,,,,,,
+Odisha,KENDRAPARA,2001,Whole Year,Sugarcane,,,,,,
+Odisha,KENDRAPARA,2002,Whole Year,Sugarcane,,,,,,
+Odisha,KENDUJHAR,1999,Winter,Sugarcane,,,,,,
+Odisha,KENDUJHAR,2000,Whole Year,Sugarcane,,,,,,
+Odisha,KENDUJHAR,2001,Whole Year,Sugarcane,,,,,,
+Odisha,KENDUJHAR,2002,Whole Year,Sugarcane,,,,,,
+Odisha,KHORDHA,1999,Winter,Sugarcane,,,,,,
+Odisha,KHORDHA,2000,Whole Year,Sugarcane,,,,,,
+Odisha,KHORDHA,2001,Whole Year,Sugarcane,,,,,,
+Odisha,KHORDHA,2002,Whole Year,Sugarcane,,,,,,
+Odisha,KORAPUT,1999,Winter,Sugarcane,,,,,,
+Odisha,KORAPUT,2000,Whole Year,Sugarcane,,,,,,
+Odisha,KORAPUT,2001,Whole Year,Sugarcane,,,,,,
+Odisha,KORAPUT,2002,Whole Year,Sugarcane,,,,,,
+Odisha,MALKANGIRI,1999,Winter,Sugarcane,,,,,,
+Odisha,MALKANGIRI,2000,Whole Year,Sugarcane,,,,,,
+Odisha,MAYURBHANJ,1999,Winter,Sugarcane,,,,,,
+Odisha,MAYURBHANJ,2000,Whole Year,Sugarcane,,,,,,
+Odisha,MAYURBHANJ,2001,Whole Year,Sugarcane,,,,,,
+Odisha,MAYURBHANJ,2002,Whole Year,Sugarcane,,,,,,
+Odisha,NABARANGPUR,1999,Winter,Sugarcane,,,,,,
+Odisha,NABARANGPUR,2000,Whole Year,Sugarcane,,,,,,
+Odisha,NABARANGPUR,2001,Whole Year,Sugarcane,,,,,,
+Odisha,NABARANGPUR,2002,Whole Year,Sugarcane,,,,,,
+Odisha,NAYAGARH,1999,Winter,Sugarcane,,,,,,
+Odisha,NAYAGARH,2000,Whole Year,Sugarcane,,,,,,
+Odisha,NAYAGARH,2001,Whole Year,Sugarcane,,,,,,
+Odisha,NAYAGARH,2002,Whole Year,Sugarcane,,,,,,
+Odisha,NUAPADA,1999,Winter,Sugarcane,,,,,,
+Odisha,NUAPADA,2000,Whole Year,Sugarcane,,,,,,
+Odisha,NUAPADA,2001,Whole Year,Sugarcane,,,,,,
+Odisha,NUAPADA,2002,Whole Year,Sugarcane,,,,,,
+Odisha,PURI,1999,Winter,Sugarcane,,,,,,
+Odisha,PURI,2000,Whole Year,Sugarcane,,,,,,
+Odisha,PURI,2001,Whole Year,Sugarcane,,,,,,
+Odisha,PURI,2002,Whole Year,Sugarcane,,,,,,
+Odisha,RAYAGADA,1999,Winter,Sugarcane,,,,,,
+Odisha,RAYAGADA,2000,Whole Year,Sugarcane,,,,,,
+Odisha,RAYAGADA,2001,Whole Year,Sugarcane,,,,,,
+Odisha,RAYAGADA,2002,Whole Year,Sugarcane,,,,,,
+Odisha,SAMBALPUR,1999,Winter,Sugarcane,,,,,,
+Odisha,SAMBALPUR,2000,Whole Year,Sugarcane,,,,,,
+Odisha,SAMBALPUR,2001,Whole Year,Sugarcane,,,,,,
+Odisha,SAMBALPUR,2002,Whole Year,Sugarcane,,,,,,
+Odisha,SONEPUR,1999,Winter,Sugarcane,,,,,,
+Odisha,SONEPUR,2000,Whole Year,Sugarcane,,,,,,
+Odisha,SONEPUR,2001,Whole Year,Sugarcane,,,,,,
+Odisha,SONEPUR,2002,Whole Year,Sugarcane,,,,,,
+Odisha,SUNDARGARH,1999,Winter,Sugarcane,,,,,,
+Odisha,SUNDARGARH,2000,Whole Year,Sugarcane,,,,,,
+Odisha,SUNDARGARH,2001,Whole Year,Sugarcane,,,,,,
+Odisha,SUNDARGARH,2002,Whole Year,Sugarcane,,,,,,
+Punjab,AMRITSAR,1999,Whole Year,Sugarcane,,,,,,
+Punjab,AMRITSAR,2000,Whole Year,Sugarcane,,,,,,
+Punjab,AMRITSAR,2001,Whole Year,Sugarcane,,,,,,
+Punjab,AMRITSAR,2002,Whole Year,Sugarcane,,,,,,
+Punjab,BATHINDA,2001,Whole Year,Sugarcane,,,,,,
+Punjab,BATHINDA,2002,Whole Year,Sugarcane,,,,,,
+Punjab,FARIDKOT,1999,Whole Year,Sugarcane,,,,,,
+Punjab,FARIDKOT,2000,Whole Year,Sugarcane,,,,,,
+Punjab,FARIDKOT,2001,Whole Year,Sugarcane,,,,,,
+Punjab,FARIDKOT,2002,Whole Year,Sugarcane,,,,,,
+Punjab,FATEHGARH SAHIB,1999,Whole Year,Sugarcane,,,,,,
+Punjab,FATEHGARH SAHIB,2000,Whole Year,Sugarcane,,,,,,
+Punjab,FATEHGARH SAHIB,2001,Whole Year,Sugarcane,,,,,,
+Punjab,FATEHGARH SAHIB,2002,Whole Year,Sugarcane,,,,,,
+Punjab,FIROZEPUR,1999,Whole Year,Sugarcane,,,,,,
+Punjab,FIROZEPUR,2000,Whole Year,Sugarcane,,,,,,
+Punjab,FIROZEPUR,2001,Whole Year,Sugarcane,,,,,,
+Punjab,FIROZEPUR,2002,Whole Year,Sugarcane,,,,,,
+Punjab,GURDASPUR,1999,Whole Year,Sugarcane,,,,,,
+Punjab,GURDASPUR,2000,Whole Year,Sugarcane,,,,,,
+Punjab,GURDASPUR,2001,Whole Year,Sugarcane,,,,,,
+Punjab,GURDASPUR,2002,Whole Year,Sugarcane,,,,,,
+Punjab,HOSHIARPUR,1999,Whole Year,Sugarcane,,,,,,
+Punjab,HOSHIARPUR,2000,Whole Year,Sugarcane,,,,,,
+Punjab,HOSHIARPUR,2001,Whole Year,Sugarcane,,,,,,
+Punjab,HOSHIARPUR,2002,Whole Year,Sugarcane,,,,,,
+Punjab,JALANDHAR,1999,Whole Year,Sugarcane,,,,,,
+Punjab,JALANDHAR,2000,Whole Year,Sugarcane,,,,,,
+Punjab,JALANDHAR,2001,Whole Year,Sugarcane,,,,,,
+Punjab,JALANDHAR,2002,Whole Year,Sugarcane,,,,,,
+Punjab,KAPURTHALA,1999,Whole Year,Sugarcane,,,,,,
+Punjab,KAPURTHALA,2000,Whole Year,Sugarcane,,,,,,
+Punjab,KAPURTHALA,2001,Whole Year,Sugarcane,,,,,,
+Punjab,KAPURTHALA,2002,Whole Year,Sugarcane,,,,,,
+Punjab,LUDHIANA,1999,Whole Year,Sugarcane,,,,,,
+Punjab,LUDHIANA,2000,Whole Year,Sugarcane,,,,,,
+Punjab,LUDHIANA,2001,Whole Year,Sugarcane,,,,,,
+Punjab,LUDHIANA,2002,Whole Year,Sugarcane,,,,,,
+Punjab,MANSA,1999,Whole Year,Sugarcane,,,,,,
+Punjab,MANSA,2000,Whole Year,Sugarcane,,,,,,
+Punjab,MANSA,2001,Whole Year,Sugarcane,,,,,,
+Punjab,MANSA,2002,Whole Year,Sugarcane,,,,,,
+Punjab,MOGA,2000,Whole Year,Sugarcane,,,,,,
+Punjab,MOGA,2001,Whole Year,Sugarcane,,,,,,
+Punjab,MOGA,2002,Whole Year,Sugarcane,,,,,,
+Punjab,MUKTSAR,1999,Whole Year,Sugarcane,,,,,,
+Punjab,MUKTSAR,2000,Whole Year,Sugarcane,,,,,,
+Punjab,MUKTSAR,2001,Whole Year,Sugarcane,,,,,,
+Punjab,MUKTSAR,2002,Whole Year,Sugarcane,,,,,,
+Punjab,NAWANSHAHR,1999,Whole Year,Sugarcane,,,,,,
+Punjab,NAWANSHAHR,2000,Whole Year,Sugarcane,,,,,,
+Punjab,NAWANSHAHR,2001,Whole Year,Sugarcane,,,,,,
+Punjab,NAWANSHAHR,2002,Whole Year,Sugarcane,,,,,,
+Punjab,PATIALA,1999,Whole Year,Sugarcane,,,,,,
+Punjab,PATIALA,2000,Whole Year,Sugarcane,,,,,,
+Punjab,PATIALA,2001,Whole Year,Sugarcane,,,,,,
+Punjab,PATIALA,2002,Whole Year,Sugarcane,,,,,,
+Punjab,RUPNAGAR,1999,Whole Year,Sugarcane,,,,,,
+Punjab,RUPNAGAR,2000,Whole Year,Sugarcane,,,,,,
+Punjab,RUPNAGAR,2001,Whole Year,Sugarcane,,,,,,
+Punjab,RUPNAGAR,2002,Whole Year,Sugarcane,,,,,,
+Punjab,SANGRUR,1999,Whole Year,Sugarcane,,,,,,
+Punjab,SANGRUR,2000,Whole Year,Sugarcane,,,,,,
+Punjab,SANGRUR,2001,Whole Year,Sugarcane,,,,,,
+Punjab,SANGRUR,2002,Whole Year,Sugarcane,,,,,,
+Rajasthan,AJMER,1999,Whole Year,Sugarcane,,,,,,
+Rajasthan,AJMER,2000,Whole Year,Sugarcane,,,,,,
+Rajasthan,AJMER,2001,Whole Year,Sugarcane,,,,,,
+Rajasthan,AJMER,2002,Whole Year,Sugarcane,,,,,,
+Rajasthan,ALWAR,1999,Whole Year,Sugarcane,,,,,,
+Rajasthan,ALWAR,2000,Whole Year,Sugarcane,,,,,,
+Rajasthan,ALWAR,2001,Whole Year,Sugarcane,,,,,,
+Rajasthan,ALWAR,2002,Whole Year,Sugarcane,,,,,,
+Rajasthan,BANSWARA,1999,Whole Year,Sugarcane,,,,,,
+Rajasthan,BANSWARA,2000,Whole Year,Sugarcane,,,,,,
+Rajasthan,BANSWARA,2001,Whole Year,Sugarcane,,,,,,
+Rajasthan,BANSWARA,2002,Whole Year,Sugarcane,,,,,,
+Rajasthan,BARAN,1999,Whole Year,Sugarcane,,,,,,
+Rajasthan,BARAN,2000,Whole Year,Sugarcane,,,,,,
+Rajasthan,BARAN,2001,Whole Year,Sugarcane,,,,,,
+Rajasthan,BARAN,2002,Whole Year,Sugarcane,,,,,,
+Rajasthan,BHARATPUR,1999,Whole Year,Sugarcane,,,,,,
+Rajasthan,BHARATPUR,2000,Whole Year,Sugarcane,,,,,,
+Rajasthan,BHARATPUR,2001,Whole Year,Sugarcane,,,,,,
+Rajasthan,BHARATPUR,2002,Whole Year,Sugarcane,,,,,,
+Rajasthan,BHILWARA,1999,Whole Year,Sugarcane,,,,,,
+Rajasthan,BHILWARA,2000,Whole Year,Sugarcane,,,,,,
+Rajasthan,BHILWARA,2001,Whole Year,Sugarcane,,,,,,
+Rajasthan,BHILWARA,2002,Whole Year,Sugarcane,,,,,,
+Rajasthan,BIKANER,1999,Whole Year,Sugarcane,,,,,,
+Rajasthan,BIKANER,2000,Whole Year,Sugarcane,,,,,,
+Rajasthan,BIKANER,2001,Whole Year,Sugarcane,,,,,,
+Rajasthan,BIKANER,2002,Whole Year,Sugarcane,,,,,,
+Rajasthan,BUNDI,1999,Whole Year,Sugarcane,,,,,,
+Rajasthan,BUNDI,2000,Whole Year,Sugarcane,,,,,,
+Rajasthan,BUNDI,2001,Whole Year,Sugarcane,,,,,,
+Rajasthan,BUNDI,2002,Whole Year,Sugarcane,,,,,,
+Rajasthan,CHITTORGARH,1999,Whole Year,Sugarcane,,,,,,
+Rajasthan,CHITTORGARH,2000,Whole Year,Sugarcane,,,,,,
+Rajasthan,CHITTORGARH,2001,Whole Year,Sugarcane,,,,,,
+Rajasthan,CHITTORGARH,2002,Whole Year,Sugarcane,,,,,,
+Rajasthan,DAUSA,1999,Whole Year,Sugarcane,,,,,,
+Rajasthan,DAUSA,2000,Whole Year,Sugarcane,,,,,,
+Rajasthan,DAUSA,2001,Whole Year,Sugarcane,,,,,,
+Rajasthan,DAUSA,2002,Whole Year,Sugarcane,,,,,,
+Rajasthan,DHOLPUR,1999,Whole Year,Sugarcane,,,,,,
+Rajasthan,DHOLPUR,2000,Whole Year,Sugarcane,,,,,,
+Rajasthan,DHOLPUR,2001,Whole Year,Sugarcane,,,,,,
+Rajasthan,DHOLPUR,2002,Whole Year,Sugarcane,,,,,,
+Rajasthan,DUNGARPUR,1999,Whole Year,Sugarcane,,,,,,
+Rajasthan,DUNGARPUR,2000,Whole Year,Sugarcane,,,,,,
+Rajasthan,DUNGARPUR,2001,Whole Year,Sugarcane,,,,,,
+Rajasthan,DUNGARPUR,2002,Whole Year,Sugarcane,,,,,,
+Rajasthan,GANGANAGAR,1999,Whole Year,Sugarcane,,,,,,
+Rajasthan,GANGANAGAR,2000,Whole Year,Sugarcane,,,,,,
+Rajasthan,GANGANAGAR,2001,Whole Year,Sugarcane,,,,,,
+Rajasthan,GANGANAGAR,2002,Whole Year,Sugarcane,,,,,,
+Rajasthan,HANUMANGARH,1999,Whole Year,Sugarcane,,,,,,
+Rajasthan,HANUMANGARH,2000,Whole Year,Sugarcane,,,,,,
+Rajasthan,HANUMANGARH,2001,Whole Year,Sugarcane,,,,,,
+Rajasthan,HANUMANGARH,2002,Whole Year,Sugarcane,,,,,,
+Rajasthan,JAIPUR,1999,Whole Year,Sugarcane,,,,,,
+Rajasthan,JAIPUR,2000,Whole Year,Sugarcane,,,,,,
+Rajasthan,JAIPUR,2001,Whole Year,Sugarcane,,,,,,
+Rajasthan,JAIPUR,2002,Whole Year,Sugarcane,,,,,,
+Rajasthan,JAISALMER,1999,Whole Year,Sugarcane,,,,,,
+Rajasthan,JHALAWAR,1999,Whole Year,Sugarcane,,,,,,
+Rajasthan,JHALAWAR,2000,Whole Year,Sugarcane,,,,,,
+Rajasthan,JHALAWAR,2001,Whole Year,Sugarcane,,,,,,
+Rajasthan,JHALAWAR,2002,Whole Year,Sugarcane,,,,,,
+Rajasthan,JHUNJHUNU,1999,Whole Year,Sugarcane,,,,,,
+Rajasthan,JODHPUR,2002,Whole Year,Sugarcane,,,,,,
+Rajasthan,KARAULI,1999,Whole Year,Sugarcane,,,,,,
+Rajasthan,KARAULI,2000,Whole Year,Sugarcane,,,,,,
+Rajasthan,KARAULI,2001,Whole Year,Sugarcane,,,,,,
+Rajasthan,KARAULI,2002,Whole Year,Sugarcane,,,,,,
+Rajasthan,KOTA,1999,Whole Year,Sugarcane,,,,,,
+Rajasthan,KOTA,2000,Whole Year,Sugarcane,,,,,,
+Rajasthan,KOTA,2001,Whole Year,Sugarcane,,,,,,
+Rajasthan,KOTA,2002,Whole Year,Sugarcane,,,,,,
+Rajasthan,NAGAUR,2001,Whole Year,Sugarcane,,,,,,
+Rajasthan,NAGAUR,2002,Whole Year,Sugarcane,,,,,,
+Rajasthan,PALI,1999,Whole Year,Sugarcane,,,,,,
+Rajasthan,PALI,2000,Whole Year,Sugarcane,,,,,,
+Rajasthan,RAJSAMAND,1999,Whole Year,Sugarcane,,,,,,
+Rajasthan,RAJSAMAND,2000,Whole Year,Sugarcane,,,,,,
+Rajasthan,RAJSAMAND,2001,Whole Year,Sugarcane,,,,,,
+Rajasthan,RAJSAMAND,2002,Whole Year,Sugarcane,,,,,,
+Rajasthan,SAWAI MADHOPUR,1999,Whole Year,Sugarcane,,,,,,
+Rajasthan,SAWAI MADHOPUR,2000,Whole Year,Sugarcane,,,,,,
+Rajasthan,SAWAI MADHOPUR,2001,Whole Year,Sugarcane,,,,,,
+Rajasthan,SAWAI MADHOPUR,2002,Whole Year,Sugarcane,,,,,,
+Rajasthan,SIKAR,1999,Whole Year,Sugarcane,,,,,,
+Rajasthan,SIKAR,2000,Whole Year,Sugarcane,,,,,,
+Rajasthan,SIKAR,2001,Whole Year,Sugarcane,,,,,,
+Rajasthan,SIKAR,2002,Whole Year,Sugarcane,,,,,,
+Rajasthan,TONK,1999,Whole Year,Sugarcane,,,,,,
+Rajasthan,TONK,2000,Whole Year,Sugarcane,,,,,,
+Rajasthan,TONK,2001,Whole Year,Sugarcane,,,,,,
+Rajasthan,TONK,2002,Whole Year,Sugarcane,,,,,,
+Rajasthan,UDAIPUR,1999,Whole Year,Sugarcane,,,,,,
+Rajasthan,UDAIPUR,2000,Whole Year,Sugarcane,,,,,,
+Rajasthan,UDAIPUR,2001,Whole Year,Sugarcane,,,,,,
+Rajasthan,UDAIPUR,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,AGRA,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,AGRA,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,AGRA,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,AGRA,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,ALIGARH,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,ALIGARH,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,ALIGARH,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,ALIGARH,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,ALLAHABAD,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,ALLAHABAD,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,ALLAHABAD,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,ALLAHABAD,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,AMBEDKAR NAGAR,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,AMBEDKAR NAGAR,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,AMBEDKAR NAGAR,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,AMBEDKAR NAGAR,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,AMROHA,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,AMROHA,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,AMROHA,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,AMROHA,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,AURAIYA,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,AURAIYA,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,AURAIYA,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,AURAIYA,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,AZAMGARH,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,AZAMGARH,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,AZAMGARH,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,AZAMGARH,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BAGHPAT,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BAGHPAT,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BAGHPAT,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BAGHPAT,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BAHRAICH,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BAHRAICH,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BAHRAICH,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BAHRAICH,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BALLIA,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BALLIA,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BALLIA,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BALLIA,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BALRAMPUR,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BALRAMPUR,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BALRAMPUR,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BALRAMPUR,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BANDA,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BANDA,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BANDA,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BANDA,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BARABANKI,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BARABANKI,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BARABANKI,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BARABANKI,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BAREILLY,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BAREILLY,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BAREILLY,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BAREILLY,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BASTI,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BASTI,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BASTI,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BASTI,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BIJNOR,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BIJNOR,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BIJNOR,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BIJNOR,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BUDAUN,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BUDAUN,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BUDAUN,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BUDAUN,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BULANDSHAHR,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BULANDSHAHR,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BULANDSHAHR,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,BULANDSHAHR,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,CHANDAULI,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,CHANDAULI,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,CHANDAULI,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,CHANDAULI,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,CHITRAKOOT,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,CHITRAKOOT,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,CHITRAKOOT,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,CHITRAKOOT,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,DEORIA,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,DEORIA,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,DEORIA,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,DEORIA,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,ETAH,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,ETAH,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,ETAH,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,ETAH,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,ETAWAH,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,ETAWAH,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,ETAWAH,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,ETAWAH,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,FAIZABAD,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,FAIZABAD,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,FAIZABAD,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,FAIZABAD,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,FARRUKHABAD,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,FARRUKHABAD,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,FARRUKHABAD,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,FARRUKHABAD,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,FATEHPUR,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,FATEHPUR,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,FATEHPUR,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,FATEHPUR,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,FIROZABAD,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,FIROZABAD,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,FIROZABAD,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,FIROZABAD,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,GHAZIABAD,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,GHAZIABAD,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,GHAZIABAD,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,GHAZIABAD,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,GHAZIPUR,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,GHAZIPUR,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,GHAZIPUR,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,GHAZIPUR,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,GONDA,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,GONDA,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,GONDA,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,GONDA,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,GORAKHPUR,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,GORAKHPUR,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,GORAKHPUR,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,GORAKHPUR,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,HAMIRPUR,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,HAMIRPUR,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,HAMIRPUR,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,HAMIRPUR,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,HARDOI,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,HARDOI,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,HARDOI,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,HARDOI,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,HATHRAS,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,HATHRAS,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,HATHRAS,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,HATHRAS,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,JALAUN,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,JALAUN,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,JALAUN,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,JALAUN,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,JAUNPUR,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,JAUNPUR,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,JAUNPUR,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,JAUNPUR,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,JHANSI,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,JHANSI,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,JHANSI,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,JHANSI,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,KANNAUJ,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,KANNAUJ,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,KANNAUJ,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,KANNAUJ,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,KANPUR NAGAR,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,KANPUR NAGAR,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,KANPUR NAGAR,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,KANPUR NAGAR,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,KAUSHAMBI,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,KAUSHAMBI,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,KAUSHAMBI,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,KAUSHAMBI,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,KHERI,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,KHERI,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,KHERI,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,KHERI,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,KUSHI NAGAR,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,KUSHI NAGAR,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,KUSHI NAGAR,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,KUSHI NAGAR,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,LALITPUR,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,LALITPUR,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,LALITPUR,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,LALITPUR,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,LUCKNOW,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,LUCKNOW,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,LUCKNOW,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,LUCKNOW,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,MAHARAJGANJ,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,MAHARAJGANJ,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,MAHARAJGANJ,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,MAHARAJGANJ,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,MAHOBA,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,MAHOBA,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,MAHOBA,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,MAHOBA,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,MAINPURI,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,MAINPURI,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,MAINPURI,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,MAINPURI,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,MATHURA,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,MATHURA,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,MATHURA,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,MATHURA,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,MAU,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,MAU,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,MAU,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,MAU,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,MEERUT,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,MEERUT,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,MEERUT,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,MEERUT,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,MIRZAPUR,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,MIRZAPUR,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,MIRZAPUR,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,MIRZAPUR,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,MORADABAD,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,MORADABAD,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,MORADABAD,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,MORADABAD,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,MUZAFFARNAGAR,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,MUZAFFARNAGAR,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,MUZAFFARNAGAR,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,MUZAFFARNAGAR,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,PILIBHIT,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,PILIBHIT,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,PILIBHIT,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,PILIBHIT,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,PRATAPGARH,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,PRATAPGARH,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,PRATAPGARH,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,PRATAPGARH,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,RAE BARELI,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,RAE BARELI,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,RAE BARELI,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,RAE BARELI,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,RAMPUR,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,RAMPUR,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,RAMPUR,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,RAMPUR,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,SAHARANPUR,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,SAHARANPUR,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,SAHARANPUR,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,SAHARANPUR,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,SANT KABEER NAGAR,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,SANT KABEER NAGAR,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,SANT KABEER NAGAR,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,SANT KABEER NAGAR,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,SANT RAVIDAS NAGAR,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,SANT RAVIDAS NAGAR,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,SANT RAVIDAS NAGAR,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,SANT RAVIDAS NAGAR,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,SHAHJAHANPUR,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,SHAHJAHANPUR,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,SHAHJAHANPUR,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,SHAHJAHANPUR,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,SHRAVASTI,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,SHRAVASTI,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,SHRAVASTI,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,SHRAVASTI,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,SIDDHARTH NAGAR,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,SIDDHARTH NAGAR,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,SIDDHARTH NAGAR,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,SIDDHARTH NAGAR,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,SITAPUR,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,SITAPUR,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,SITAPUR,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,SITAPUR,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,SONBHADRA,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,SONBHADRA,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,SONBHADRA,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,SONBHADRA,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,SULTANPUR,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,SULTANPUR,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,SULTANPUR,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,SULTANPUR,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,UNNAO,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,UNNAO,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,UNNAO,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,UNNAO,2002,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,VARANASI,1999,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,VARANASI,2000,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,VARANASI,2001,Whole Year,Sugarcane,,,,,,
+Uttar Pradesh,VARANASI,2002,Whole Year,Sugarcane,,,,,,
+Uttarakhand,CHAMOLI,2000,Whole Year,Sugarcane,,,,,,
+Uttarakhand,CHAMOLI,2001,Whole Year,Sugarcane,,,,,,
+Uttarakhand,DEHRADUN,2000,Whole Year,Sugarcane,,,,,,
+Uttarakhand,DEHRADUN,2001,Whole Year,Sugarcane,,,,,,
+Uttarakhand,DEHRADUN,2002,Whole Year,Sugarcane,,,,,,
+Uttarakhand,HARIDWAR,2002,Whole Year,Sugarcane,,,,,,
+Uttarakhand,NAINITAL,2000,Whole Year,Sugarcane,,,,,,
+Uttarakhand,NAINITAL,2001,Whole Year,Sugarcane,,,,,,
+Uttarakhand,NAINITAL,2002,Whole Year,Sugarcane,,,,,,
+Uttarakhand,UDAM SINGH NAGAR,2000,Whole Year,Sugarcane,,,,,,
+Uttarakhand,UDAM SINGH NAGAR,2001,Whole Year,Sugarcane,,,,,,
+Uttarakhand,UDAM SINGH NAGAR,2002,Whole Year,Sugarcane,,,,,,
