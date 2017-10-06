@@ -9,31 +9,32 @@ def predict(features):
     predicted_labels = []
 
     predicted_labels.append(models.GNB(features))
-    # predicted_labels.append(models.BNB(features))
-    # predicted_labels.append(models.MNB(features))
+    predicted_labels.append(models.BNB(features))
+    predicted_labels.append(models.MNB(features))
     predicted_labels.append(models.SGDC(features))
 
-    return predicted_labels#, mode(predicted_labels)
+    return predicted_labels
 
 test_features = gt.get_test_features()
 test_labels = gt.get_test_labels()
+
+cm = confusion_matrix()
 
 # list_of_priors = []
 # with open("naive_bayes/pickle_jar/model_gnb.pkl", "rb") as f:
 #     model = pickle.load(f)
 #     print(model.score(np.array(test_features), np.array(test_labels)))
 #
-# with open("final/pickle_jar/model_bnb.pkl", "rb") as f:
+# with open("naive_bayes/pickle_jar/model_bnb.pkl", "rb") as f:
 #     model = pickle.load(f)
-#     list_of_priors.append(model.class_log_prior_)
+#     print(model.score(np.array(test_features), np.array(test_labels)))
 #
-# with open("final/pickle_jar/model_mnb.pkl", "rb") as f:
+# with open("naive_bayes/pickle_jar/model_mnb.pkl", "rb") as f:
 #     model = pickle.load(f)
-#     list_of_priors.append(model.class_log_prior_)
+#     print(model.score(np.array(test_features), np.array(test_labels)))
 #
-# with open("final/pickle_jar/model_sgdc.pkl", "rb") as f:
+# with open("naive_bayes/pickle_jar/model_sgdc.pkl", "rb") as f:
 #     model = pickle.load(f)
-#     list_of_priors.append(model.coef_)
-#
-#
+#     print(model.score(np.array(test_features), np.array(test_labels)))
+
 # print(list_of_priors)
