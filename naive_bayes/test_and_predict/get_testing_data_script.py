@@ -1,4 +1,4 @@
-def get_testing_features():
+def get_test_features():
 
     features = []
     for row in open('naive_bayes/test_and_predict/test_data.csv', 'r').read().strip().split("\n"):
@@ -9,7 +9,7 @@ def get_testing_features():
 
     return features
 
-def get_labels():
+def get_test_labels():
 
     labels = []
     for row in open('naive_bayes/test_and_predict/test_data.csv', 'r').read().strip().split("\n"):

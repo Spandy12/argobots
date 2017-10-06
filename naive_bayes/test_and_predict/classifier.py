@@ -1,6 +1,9 @@
 import trained_models as models
 from statistics import mode
-import pickle
+from sklearn.metrics import accuracy_score
+#import pickle
+import get_testing_data_script as gt
+import numpy as np
 
 def predict(features):
     predicted_labels = []
@@ -10,11 +13,9 @@ def predict(features):
     predicted_labels.append(models.MNB(features))
     predicted_labels.append(models.SGDC(features))
 
-    return predicted_labels, mode(predicted_labels)
+    return mode(predicted_labels)
 
-features = ""
-features = [float(v) for v in features.strip().split(",")]
-
+features = gt.get_test_features()[0]
 print(predict(features))
 
 # list_of_priors = []
