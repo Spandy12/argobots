@@ -20,11 +20,6 @@ def SGDC(features):
         model_sgdc = pickle.load(f)
     return model_sgdc.predict(features)[0]
 
-def DTC(features):
-    with open("naive_bayes/pickle_jar/model_dtc.pkl", "rb") as f:
-        model_dtc = pickle.load(f)
-    return model_dtc.predict(features)[0]
-
 def GBC(features):
     with open("naive_bayes/pickle_jar/model_gbc.pkl", "rb") as f:
         model_gbc = pickle.load(f)

@@ -13,7 +13,6 @@ def predict(features):
     predicted_labels.append(models.BNB(features))
     predicted_labels.append(models.MNB(features))
     predicted_labels.append(models.SGDC(features))
-    predicted_labels.append(models.DTC(features))
     predicted_labels.append(models.GBC(features))
 
     most_common,num_most_common = Counter(predicted_labels).most_common(1)[0]
