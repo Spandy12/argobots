@@ -13,10 +13,12 @@ def predict(features):
     predicted_labels.append(models.BNB(features))
     predicted_labels.append(models.MNB(features))
     predicted_labels.append(models.SGDC(features))
+    predicted_labels.append(models.DTC(features))
+    predicted_labels.append(models.GBC(features))
 
     most_common,num_most_common = Counter(predicted_labels).most_common(1)[0]
 
-    return models.MNB(features)
+    return most_common
 
 test_features = np.array(gt.get_test_features())
 test_labels = np.array(gt.get_test_labels())
