@@ -1,18 +1,14 @@
 import trained_models as models
-from statistics import mode
-from sklearn.metrics import accuracy_score, confusion_matrix
-import pickle
+from sklearn.metrics import accuracy_score
 import get_testing_data_script as gt
 import numpy as np
 from collections import Counter
+import matplotlib.pyplot.scatter as sct
 
 def predict(features):
     predicted_labels = []
 
     predicted_labels.append(models.GNB(features))
-    #predicted_labels.append(models.BNB(features))
-    #predicted_labels.append(models.MNB(features))
-    #redicted_labels.append(models.SGDC(features))
     predicted_labels.append(models.GBC(features))
     predicted_labels.append(models.RFC(features))
 
@@ -27,23 +23,4 @@ pl = []
 for tf in test_features:
     pl.append(predict(tf))
 
-# print(np.array(pl))
-print(accuracy_score(np.array(test_labels), np.array(pl)))
-# list_of_priors = []
-# with open("naive_bayes/pickle_jar/model_gnb.pkl", "rb") as f:
-#     model = pickle.load(f)
-#     print(model.score(np.array(test_features), np.array(test_labels)))
-#
-# with open("naive_bayes/pickle_jar/model_bnb.pkl", "rb") as f:
-#     model = pickle.load(f)
-#     print(model.score(np.array(test_features), np.array(test_labels)))
-#
-# with open("naive_bayes/pickle_jar/model_mnb.pkl", "rb") as f:
-#     model = pickle.load(f)
-#     print(model.score(np.array(test_features), np.array(test_labels)))
-#
-# with open("naive_bayes/pickle_jar/model_sgdc.pkl", "rb") as f:
-#     model = pickle.load(f)
-#     print(model.score(np.array(test_features), np.array(test_labels)))
-
-# print(list_of_priors)
+#print(accuracy_score(np.array(test_labels), np.array(pl)))
