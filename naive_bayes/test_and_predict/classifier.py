@@ -4,6 +4,7 @@ from sklearn.metrics import accuracy_score, confusion_matrix
 import pickle
 import get_testing_data_script as gt
 import numpy as np
+from collections import Counter
 
 def predict(features):
     predicted_labels = []
@@ -13,13 +14,19 @@ def predict(features):
     predicted_labels.append(models.MNB(features))
     predicted_labels.append(models.SGDC(features))
 
-    return predicted_labels
+    most_common,num_most_common = Counter(predicted_labels).most_common(1)[0]
 
-test_features = gt.get_test_features()
-test_labels = gt.get_test_labels()
+    return models.MNB(features)
 
-cm = confusion_matrix()
+test_features = np.array(gt.get_test_features())
+test_labels = np.array(gt.get_test_labels())
 
+pl = []
+for tf in test_features:
+    pl.append(predict(tf))
+
+# print(np.array(pl))
+print(accuracy_score(np.array(test_labels), np.array(pl)))
 # list_of_priors = []
 # with open("naive_bayes/pickle_jar/model_gnb.pkl", "rb") as f:
 #     model = pickle.load(f)
