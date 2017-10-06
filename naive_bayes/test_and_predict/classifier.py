@@ -12,7 +12,7 @@ def predict(features):
 
     return predicted_labels, mode(predicted_labels)
 
-features = "3.524443,1.82035,3.069451,2.4636,5.125797,3.536822"
+features = ""
 features = [float(v) for v in features.strip().split(",")]
 
 print(predict(features))
