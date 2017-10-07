@@ -19,11 +19,21 @@
 # data.plot(kind='density', subplots=True, layout=(3,3), sharex=False)
 # plt.show()
 
-# Scatterplot Matrix
+# # Scatterplot Matrix
+# import matplotlib.pyplot as plt
+# import pandas
+# from pandas.tools.plotting import scatter_matrix
+# names = ['crop', 'precip', 'max_temp', 'min_temp', 'gw', 'cc', 'ss']
+# data = pandas.read_csv('naive_bayes/train/data.csv', names=names)
+# scatter_matrix(data)
+# plt.show()
+
+
+# Box and Whisker Plots
 import matplotlib.pyplot as plt
 import pandas
-from pandas.tools.plotting import scatter_matrix
+url = "https://archive.ics.uci.edu/ml/machine-learning-databases/pima-indians-diabetes/pima-indians-diabetes.data"
 names = ['preg', 'plas', 'pres', 'skin', 'test', 'mass', 'pedi', 'age', 'class']
 data = pandas.read_csv(url, names=names)
-scatter_matrix(data)
+data.plot(kind='box', subplots=True, layout=(3,3), sharex=False, sharey=False)
 plt.show()
