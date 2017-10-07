@@ -18,10 +18,12 @@ def predict(features):
 test_features = np.array(gt.get_test_features())
 test_labels = np.array(gt.get_test_labels())
 
-pl = []
-for tf in test_features:
-    pl.append(predict(tf))
+features = test_features[50]
+print(predict(features))
 
+# Uncomment to get accuracy :-
+# pl = []
+# for tf in test_features:
+#     pl.append(predict(tf))
 
-scatter(np.array(pl), test_labels)
 #print(accuracy_score(np.array(test_labels), np.array(pl)))
