@@ -3,7 +3,6 @@ from sklearn.metrics import accuracy_score
 import get_testing_data_script as gt
 import numpy as np
 from collections import Counter
-import matplotlib.pyplot.scatter as sct
 
 def predict(features):
     predicted_labels = []
@@ -23,4 +22,6 @@ pl = []
 for tf in test_features:
     pl.append(predict(tf))
 
+
+scatter(np.array(pl), test_labels)
 #print(accuracy_score(np.array(test_labels), np.array(pl)))
